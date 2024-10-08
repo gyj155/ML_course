@@ -5,7 +5,7 @@ Stochastic Gradient Descent
 """
 from helpers import batch_iter
 from costs import compute_loss
-
+import numpy as np
 
 def compute_stoch_gradient(y, tx, w):
     """Compute a stochastic gradient at w from just few examples n and their corresponding y_n labels.
@@ -18,12 +18,11 @@ def compute_stoch_gradient(y, tx, w):
     Returns:
         An array of shape (2, ) (same shape as w), containing the stochastic gradient of the loss at w.
     """
-
-    # ***************************************************
-    # INSERT YOUR CODE HERE
-    # TODO: implement stochastic gradient computation. It's the same as the usual gradient.
-    # ***************************************************
-    raise NotImplementedError
+    # 计算预测误差
+    e = y - np.dot(tx, w)
+    # 计算梯度
+    gradient = -np.dot(tx.T, e) / len(e)
+    return gradient
 
 
 def stochastic_gradient_descent(y, tx, initial_w, batch_size, max_iters, gamma):
@@ -42,17 +41,22 @@ def stochastic_gradient_descent(y, tx, initial_w, batch_size, max_iters, gamma):
         ws: a list of length max_iters containing the model parameters as numpy arrays of shape (2, ), for each iteration of SGD
     """
 
-    # Define parameters to store w and loss
+    # 定义存储w和loss的参数
     ws = [initial_w]
     losses = []
     w = initial_w
 
     for n_iter in range(max_iters):
-        # ***************************************************
-        # INSERT YOUR CODE HERE
-        # TODO: implement stochastic gradient descent.
-        # ***************************************************
-        raise NotImplementedError
+        for minibatch_y, minibatch_tx in batch_iter(y, tx, batch_size):
+            # 计算随机梯度
+            gradient = compute_stoch_gradient(minibatch_y, minibatch_tx, w)
+            # 更新w
+            w = w - gamma * gradient
+            # 计算损失
+            loss = compute_loss(y, tx, w)
+            # 存储w和损失
+            ws.append(w)
+            losses.append(loss)
 
         print(
             "SGD iter. {bi}/{ti}: loss={l}, w0={w0}, w1={w1}".format(
