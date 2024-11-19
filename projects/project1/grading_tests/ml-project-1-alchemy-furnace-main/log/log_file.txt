@@ -1,0 +1,1397 @@
+2024-10-28 17:16:14,066 - INFO - Threshold: 1
+2024-10-28 17:16:14,066 - INFO - Subsample: False
+2024-10-28 17:16:14,066 - INFO - Avg Threshold: 10
+2024-10-28 17:16:14,067 - INFO - Std Threshold: 3
+2024-10-28 17:16:14,067 - INFO - Random Vector: False
+2024-10-28 17:16:14,067 - INFO - Max Iterations: 50000
+2024-10-28 17:16:14,067 - INFO - Learning Rate: 0.0001
+2024-10-28 17:16:14,067 - INFO - SGD: True
+2024-10-28 17:16:14,067 - INFO - Batch Size: 64
+2024-10-28 17:16:14,067 - INFO - Shuffle: True
+2024-10-28 17:16:14,067 - INFO - Regularization: True
+2024-10-28 17:16:14,067 - INFO - Lambda: 0.0001
+2024-10-28 17:16:14,067 - INFO - noise_level: 0.1
+2024-10-28 17:16:14,067 - INFO - acc.: 0.9145077483352888
+2024-10-28 17:16:14,076 - INFO - F1 Score: 0.15971244570915083
+2024-10-28 17:19:41,213 - INFO - Threshold: 1
+2024-10-28 17:19:41,213 - INFO - Subsample: False
+2024-10-28 17:19:41,213 - INFO - Avg Threshold: 10
+2024-10-28 17:19:41,213 - INFO - Std Threshold: 3
+2024-10-28 17:19:41,213 - INFO - Random Vector: False
+2024-10-28 17:19:41,213 - INFO - Max Iterations: 50000
+2024-10-28 17:19:41,213 - INFO - Learning Rate: 0.0001
+2024-10-28 17:19:41,213 - INFO - SGD: True
+2024-10-28 17:19:41,213 - INFO - Batch Size: 64
+2024-10-28 17:19:41,213 - INFO - Shuffle: True
+2024-10-28 17:19:41,213 - INFO - Regularization: True
+2024-10-28 17:19:41,213 - INFO - Lambda: 0.0001
+2024-10-28 17:19:41,213 - INFO - noise_level: 0.1
+2024-10-28 17:19:41,213 - INFO - acc.: 0.5980343456199431
+2024-10-28 17:19:41,213 - INFO - F1 Score: 0.28763697834810464
+2024-10-28 17:22:19,151 - INFO - Threshold: 1
+2024-10-28 17:22:19,151 - INFO - Subsample: False
+2024-10-28 17:22:19,151 - INFO - Avg Threshold: 10
+2024-10-28 17:22:19,151 - INFO - Std Threshold: 3
+2024-10-28 17:22:19,151 - INFO - Random Vector: False
+2024-10-28 17:22:19,151 - INFO - Max Iterations: 50000
+2024-10-28 17:22:19,151 - INFO - Learning Rate: 0.0001
+2024-10-28 17:22:19,151 - INFO - SGD: True
+2024-10-28 17:22:19,151 - INFO - Batch Size: 64
+2024-10-28 17:22:19,151 - INFO - Shuffle: True
+2024-10-28 17:22:19,151 - INFO - Regularization: True
+2024-10-28 17:22:19,151 - INFO - Lambda: 0.0001
+2024-10-28 17:22:19,151 - INFO - noise_level: 0.1
+2024-10-28 17:22:19,151 - INFO - acc.: 0.598265957608911
+2024-10-28 17:22:19,151 - INFO - F1 Score: 0.28783204844922494
+2024-10-28 17:39:40,727 - INFO - Threshold: 1
+2024-10-28 17:39:40,727 - INFO - Subsample: False
+2024-10-28 17:39:40,727 - INFO - Avg Threshold: 10
+2024-10-28 17:39:40,727 - INFO - Std Threshold: 3
+2024-10-28 17:39:40,727 - INFO - Random Vector: False
+2024-10-28 17:39:40,727 - INFO - Max Iterations: 50000
+2024-10-28 17:39:40,727 - INFO - Learning Rate: 0.0001
+2024-10-28 17:39:40,727 - INFO - SGD: True
+2024-10-28 17:39:40,727 - INFO - Batch Size: 64
+2024-10-28 17:39:40,727 - INFO - Shuffle: True
+2024-10-28 17:39:40,727 - INFO - Regularization: True
+2024-10-28 17:39:40,727 - INFO - Lambda: 0.0001
+2024-10-28 17:39:40,727 - INFO - noise_level: 0.1
+2024-10-28 17:39:40,727 - INFO - acc.: 0.8059426760327304
+2024-10-28 17:39:40,727 - INFO - F1 Score: 0.3865946112572128
+2024-10-28 17:42:07,246 - INFO - Threshold: 1
+2024-10-28 17:42:07,246 - INFO - Subsample: False
+2024-10-28 17:42:07,246 - INFO - Avg Threshold: 10
+2024-10-28 17:42:07,246 - INFO - Std Threshold: 3
+2024-10-28 17:42:07,246 - INFO - Random Vector: False
+2024-10-28 17:42:07,246 - INFO - Max Iterations: 50000
+2024-10-28 17:42:07,246 - INFO - Learning Rate: 0.0001
+2024-10-28 17:42:07,246 - INFO - SGD: True
+2024-10-28 17:42:07,246 - INFO - Batch Size: 64
+2024-10-28 17:42:07,246 - INFO - Shuffle: True
+2024-10-28 17:42:07,246 - INFO - Regularization: True
+2024-10-28 17:42:07,246 - INFO - Lambda: 0.0001
+2024-10-28 17:42:07,246 - INFO - noise_level: 0.1
+2024-10-28 17:42:07,246 - INFO - acc.: 0.6950188184741036
+2024-10-28 17:42:07,246 - INFO - F1 Score: 0.33055274970064685
+2024-10-28 17:43:49,501 - INFO - Threshold: 1
+2024-10-28 17:43:49,501 - INFO - Subsample: False
+2024-10-28 17:43:49,501 - INFO - Avg Threshold: 10
+2024-10-28 17:43:49,502 - INFO - Std Threshold: 3
+2024-10-28 17:43:49,502 - INFO - Random Vector: False
+2024-10-28 17:43:49,502 - INFO - Max Iterations: 50000
+2024-10-28 17:43:49,502 - INFO - Learning Rate: 0.0001
+2024-10-28 17:43:49,502 - INFO - SGD: True
+2024-10-28 17:43:49,502 - INFO - Batch Size: 64
+2024-10-28 17:43:49,502 - INFO - Shuffle: True
+2024-10-28 17:43:49,502 - INFO - Regularization: True
+2024-10-28 17:43:49,502 - INFO - Lambda: 0.0001
+2024-10-28 17:43:49,502 - INFO - noise_level: 0.1
+2024-10-28 17:43:49,502 - INFO - acc.: 0.8486324226309293
+2024-10-28 17:43:49,502 - INFO - F1 Score: 0.403396874587102
+2024-10-28 17:45:25,385 - INFO - Threshold: 1
+2024-10-28 17:45:25,385 - INFO - Subsample: False
+2024-10-28 17:45:25,385 - INFO - Avg Threshold: 10
+2024-10-28 17:45:25,385 - INFO - Std Threshold: 3
+2024-10-28 17:45:25,385 - INFO - Random Vector: False
+2024-10-28 17:45:25,385 - INFO - Max Iterations: 50000
+2024-10-28 17:45:25,385 - INFO - Learning Rate: 0.0001
+2024-10-28 17:45:25,385 - INFO - SGD: True
+2024-10-28 17:45:25,385 - INFO - Batch Size: 64
+2024-10-28 17:45:25,385 - INFO - Shuffle: True
+2024-10-28 17:45:25,385 - INFO - Regularization: True
+2024-10-28 17:45:25,385 - INFO - Lambda: 0.0001
+2024-10-28 17:45:25,385 - INFO - noise_level: 0.1
+2024-10-28 17:45:25,385 - INFO - acc.: 0.8698523473570329
+2024-10-28 17:45:25,385 - INFO - F1 Score: 0.4047778335284607
+2024-10-28 17:48:52,325 - INFO - Threshold: 1
+2024-10-28 17:48:52,325 - INFO - Subsample: False
+2024-10-28 17:48:52,325 - INFO - Avg Threshold: 10
+2024-10-28 17:48:52,325 - INFO - Std Threshold: 3
+2024-10-28 17:48:52,325 - INFO - Random Vector: False
+2024-10-28 17:48:52,325 - INFO - Max Iterations: 50000
+2024-10-28 17:48:52,325 - INFO - Learning Rate: 0.0001
+2024-10-28 17:48:52,325 - INFO - SGD: True
+2024-10-28 17:48:52,325 - INFO - Batch Size: 64
+2024-10-28 17:48:52,325 - INFO - Shuffle: True
+2024-10-28 17:48:52,325 - INFO - Regularization: True
+2024-10-28 17:48:52,325 - INFO - Lambda: 0.0001
+2024-10-28 17:48:52,325 - INFO - noise_level: 0.1
+2024-10-28 17:48:52,325 - INFO - acc.: 0.8879119874441922
+2024-10-28 17:48:52,325 - INFO - F1 Score: 0.3952846009667555
+2024-10-28 17:52:15,874 - INFO - Threshold: 1
+2024-10-28 17:52:15,874 - INFO - Subsample: False
+2024-10-28 17:52:15,874 - INFO - Avg Threshold: 10
+2024-10-28 17:52:15,874 - INFO - Std Threshold: 3
+2024-10-28 17:52:15,874 - INFO - Random Vector: False
+2024-10-28 17:52:15,874 - INFO - Max Iterations: 50000
+2024-10-28 17:52:15,874 - INFO - Learning Rate: 0.0001
+2024-10-28 17:52:15,875 - INFO - SGD: True
+2024-10-28 17:52:15,875 - INFO - Batch Size: 64
+2024-10-28 17:52:15,875 - INFO - Shuffle: True
+2024-10-28 17:52:15,875 - INFO - Regularization: True
+2024-10-28 17:52:15,875 - INFO - Lambda: 0.0001
+2024-10-28 17:52:15,875 - INFO - noise_level: 0.1
+2024-10-28 17:52:15,875 - INFO - acc.: 0.8695445472137991
+2024-10-28 17:52:15,875 - INFO - F1 Score: 0.40477216791579185
+2024-10-28 17:55:31,044 - INFO - Threshold: 1
+2024-10-28 17:55:31,044 - INFO - Subsample: False
+2024-10-28 17:55:31,044 - INFO - Avg Threshold: 10
+2024-10-28 17:55:31,044 - INFO - Std Threshold: 3
+2024-10-28 17:55:31,044 - INFO - Random Vector: False
+2024-10-28 17:55:31,044 - INFO - Max Iterations: 50000
+2024-10-28 17:55:31,044 - INFO - Learning Rate: 0.0001
+2024-10-28 17:55:31,044 - INFO - SGD: True
+2024-10-28 17:55:31,044 - INFO - Batch Size: 64
+2024-10-28 17:55:31,044 - INFO - Shuffle: True
+2024-10-28 17:55:31,044 - INFO - Regularization: True
+2024-10-28 17:55:31,044 - INFO - Lambda: 0.0001
+2024-10-28 17:55:31,044 - INFO - noise_level: 0.1
+2024-10-28 17:55:31,044 - INFO - acc.: 0.8840507717860027
+2024-10-28 17:55:31,044 - INFO - F1 Score: 0.39866605553887247
+2024-10-28 17:57:05,498 - INFO - Threshold: 1
+2024-10-28 17:57:05,498 - INFO - Subsample: False
+2024-10-28 17:57:05,498 - INFO - Avg Threshold: 10
+2024-10-28 17:57:05,498 - INFO - Std Threshold: 3
+2024-10-28 17:57:05,498 - INFO - Random Vector: False
+2024-10-28 17:57:05,498 - INFO - Max Iterations: 50000
+2024-10-28 17:57:05,498 - INFO - Learning Rate: 0.0001
+2024-10-28 17:57:05,498 - INFO - SGD: True
+2024-10-28 17:57:05,498 - INFO - Batch Size: 64
+2024-10-28 17:57:05,498 - INFO - Shuffle: True
+2024-10-28 17:57:05,498 - INFO - Regularization: True
+2024-10-28 17:57:05,498 - INFO - Lambda: 0.0001
+2024-10-28 17:57:05,498 - INFO - noise_level: 0.1
+2024-10-28 17:57:05,498 - INFO - acc.: 0.8827220503756076
+2024-10-28 17:57:05,499 - INFO - F1 Score: 0.4006043331308506
+2024-10-28 17:58:41,553 - INFO - Threshold: 1
+2024-10-28 17:58:41,553 - INFO - Subsample: False
+2024-10-28 17:58:41,554 - INFO - Avg Threshold: 10
+2024-10-28 17:58:41,554 - INFO - Std Threshold: 3
+2024-10-28 17:58:41,554 - INFO - Random Vector: False
+2024-10-28 17:58:41,554 - INFO - Max Iterations: 50000
+2024-10-28 17:58:41,554 - INFO - Learning Rate: 0.0001
+2024-10-28 17:58:41,554 - INFO - SGD: True
+2024-10-28 17:58:41,554 - INFO - Batch Size: 64
+2024-10-28 17:58:41,554 - INFO - Shuffle: True
+2024-10-28 17:58:41,554 - INFO - Regularization: True
+2024-10-28 17:58:41,554 - INFO - Lambda: 0.0001
+2024-10-28 17:58:41,554 - INFO - noise_level: 0.1
+2024-10-28 17:58:41,554 - INFO - acc.: 0.8846998948603471
+2024-10-28 17:58:41,554 - INFO - F1 Score: 0.3998223293886228
+2024-10-28 18:00:30,198 - INFO - Threshold: 1
+2024-10-28 18:00:30,199 - INFO - Subsample: False
+2024-10-28 18:00:30,199 - INFO - Avg Threshold: 10
+2024-10-28 18:00:30,199 - INFO - Std Threshold: 3
+2024-10-28 18:00:30,199 - INFO - Random Vector: False
+2024-10-28 18:00:30,199 - INFO - Max Iterations: 50000
+2024-10-28 18:00:30,199 - INFO - Learning Rate: 0.0001
+2024-10-28 18:00:30,199 - INFO - SGD: True
+2024-10-28 18:00:30,199 - INFO - Batch Size: 64
+2024-10-28 18:00:30,199 - INFO - Shuffle: True
+2024-10-28 18:00:30,199 - INFO - Regularization: True
+2024-10-28 18:00:30,199 - INFO - Lambda: 0.0001
+2024-10-28 18:00:30,199 - INFO - noise_level: 0.1
+2024-10-28 18:00:30,199 - INFO - acc.: 0.8544349124598107
+2024-10-28 18:00:30,199 - INFO - F1 Score: 0.40536805806266885
+2024-10-28 18:02:04,612 - INFO - Threshold: 1
+2024-10-28 18:02:04,613 - INFO - Subsample: False
+2024-10-28 18:02:04,613 - INFO - Avg Threshold: 10
+2024-10-28 18:02:04,613 - INFO - Std Threshold: 3
+2024-10-28 18:02:04,613 - INFO - Random Vector: False
+2024-10-28 18:02:04,613 - INFO - Max Iterations: 50000
+2024-10-28 18:02:04,613 - INFO - Learning Rate: 0.0001
+2024-10-28 18:02:04,613 - INFO - SGD: True
+2024-10-28 18:02:04,613 - INFO - Batch Size: 64
+2024-10-28 18:02:04,613 - INFO - Shuffle: True
+2024-10-28 18:02:04,613 - INFO - Regularization: True
+2024-10-28 18:02:04,613 - INFO - Lambda: 0.0001
+2024-10-28 18:02:04,613 - INFO - noise_level: 0.1
+2024-10-28 18:02:04,613 - INFO - acc.: 0.8515763329117588
+2024-10-28 18:02:04,613 - INFO - F1 Score: 0.4049361598142831
+2024-10-28 18:04:50,822 - INFO - Threshold: 1
+2024-10-28 18:04:50,822 - INFO - Subsample: False
+2024-10-28 18:04:50,822 - INFO - Avg Threshold: 10
+2024-10-28 18:04:50,822 - INFO - Std Threshold: 3
+2024-10-28 18:04:50,822 - INFO - Random Vector: False
+2024-10-28 18:04:50,822 - INFO - Max Iterations: 50000
+2024-10-28 18:04:50,822 - INFO - Learning Rate: 0.0001
+2024-10-28 18:04:50,822 - INFO - SGD: True
+2024-10-28 18:04:50,822 - INFO - Batch Size: 64
+2024-10-28 18:04:50,823 - INFO - Shuffle: True
+2024-10-28 18:04:50,823 - INFO - Regularization: True
+2024-10-28 18:04:50,823 - INFO - Lambda: 0.0001
+2024-10-28 18:04:50,823 - INFO - noise_level: 0.1
+2024-10-28 18:04:50,823 - INFO - acc.: 0.8122815304676428
+2024-10-28 18:04:50,823 - INFO - F1 Score: 0.3905933100507534
+2024-10-28 18:06:47,974 - INFO - Threshold: 1
+2024-10-28 18:06:47,974 - INFO - Subsample: False
+2024-10-28 18:06:47,974 - INFO - Avg Threshold: 10
+2024-10-28 18:06:47,974 - INFO - Std Threshold: 3
+2024-10-28 18:06:47,974 - INFO - Random Vector: False
+2024-10-28 18:06:47,974 - INFO - Max Iterations: 50000
+2024-10-28 18:06:47,974 - INFO - Learning Rate: 0.0001
+2024-10-28 18:06:47,974 - INFO - SGD: True
+2024-10-28 18:06:47,974 - INFO - Batch Size: 64
+2024-10-28 18:06:47,974 - INFO - Shuffle: True
+2024-10-28 18:06:47,975 - INFO - Regularization: True
+2024-10-28 18:06:47,975 - INFO - Lambda: 0.0001
+2024-10-28 18:06:47,975 - INFO - noise_level: 0.1
+2024-10-28 18:06:47,975 - INFO - acc.: 0.8495588705868011
+2024-10-28 18:06:47,975 - INFO - F1 Score: 0.4042863866195229
+2024-10-28 18:18:45,103 - INFO - Threshold: 1
+2024-10-28 18:18:45,103 - INFO - Subsample: False
+2024-10-28 18:18:45,103 - INFO - Avg Threshold: 10
+2024-10-28 18:18:45,103 - INFO - Std Threshold: 3
+2024-10-28 18:18:45,103 - INFO - Random Vector: False
+2024-10-28 18:18:45,103 - INFO - Max Iterations: 50000
+2024-10-28 18:18:45,103 - INFO - Learning Rate: 0.0001
+2024-10-28 18:18:45,103 - INFO - SGD: True
+2024-10-28 18:18:45,103 - INFO - Batch Size: 64
+2024-10-28 18:18:45,103 - INFO - Shuffle: True
+2024-10-28 18:18:45,103 - INFO - Regularization: True
+2024-10-28 18:18:45,103 - INFO - Lambda: 5e-05
+2024-10-28 18:18:45,103 - INFO - noise_level: 0.1
+2024-10-28 18:18:45,103 - INFO - acc.: 0.8824325353893977
+2024-10-28 18:18:45,103 - INFO - F1 Score: 0.40029225220743686
+2024-10-28 18:22:27,799 - INFO - Threshold: 1
+2024-10-28 18:22:27,800 - INFO - Subsample: False
+2024-10-28 18:22:27,800 - INFO - Avg Threshold: 10
+2024-10-28 18:22:27,800 - INFO - Std Threshold: 3
+2024-10-28 18:22:27,800 - INFO - Random Vector: False
+2024-10-28 18:22:27,800 - INFO - Max Iterations: 50000
+2024-10-28 18:22:27,800 - INFO - Learning Rate: 0.0001
+2024-10-28 18:22:27,800 - INFO - SGD: True
+2024-10-28 18:22:27,800 - INFO - Batch Size: 64
+2024-10-28 18:22:27,800 - INFO - Shuffle: True
+2024-10-28 18:22:27,800 - INFO - Regularization: True
+2024-10-28 18:22:27,800 - INFO - Lambda: 1e-05
+2024-10-28 18:22:27,800 - INFO - noise_level: 0.1
+2024-10-28 18:22:27,800 - INFO - acc.: 0.9143188017127097
+2024-10-28 18:22:27,800 - INFO - F1 Score: 0.16391590091295685
+2024-10-28 18:24:12,547 - INFO - Threshold: 1
+2024-10-28 18:24:12,547 - INFO - Subsample: False
+2024-10-28 18:24:12,547 - INFO - Avg Threshold: 10
+2024-10-28 18:24:12,547 - INFO - Std Threshold: 3
+2024-10-28 18:24:12,547 - INFO - Random Vector: False
+2024-10-28 18:24:12,547 - INFO - Max Iterations: 50000
+2024-10-28 18:24:12,547 - INFO - Learning Rate: 0.0001
+2024-10-28 18:24:12,547 - INFO - SGD: True
+2024-10-28 18:24:12,547 - INFO - Batch Size: 64
+2024-10-28 18:24:12,547 - INFO - Shuffle: True
+2024-10-28 18:24:12,548 - INFO - Regularization: True
+2024-10-28 18:24:12,548 - INFO - Lambda: 1e-05
+2024-10-28 18:24:12,548 - INFO - noise_level: 0.1
+2024-10-28 18:24:12,548 - INFO - acc.: 0.8862967985737578
+2024-10-28 18:24:12,548 - INFO - F1 Score: 0.3982646280885105
+2024-10-28 21:22:48,709 - INFO - Threshold: 1
+2024-10-28 21:22:48,710 - INFO - Subsample: False
+2024-10-28 21:22:48,710 - INFO - Avg Threshold: 10
+2024-10-28 21:22:48,710 - INFO - Std Threshold: 3
+2024-10-28 21:22:48,710 - INFO - Clipping: True
+2024-10-28 21:22:48,710 - INFO - Data Augmentation: True
+2024-10-28 21:22:48,710 - INFO - Number of copies: 9
+2024-10-28 21:22:48,710 - INFO - Random Vector: False
+2024-10-28 21:22:48,710 - INFO - Max Iterations: 50000
+2024-10-28 21:22:48,710 - INFO - Learning Rate: 0.0001
+2024-10-28 21:22:48,710 - INFO - SGD: True
+2024-10-28 21:22:48,710 - INFO - Batch Size: 64
+2024-10-28 21:22:48,710 - INFO - Shuffle: True
+2024-10-28 21:22:48,710 - INFO - Regularization: True
+2024-10-28 21:22:48,710 - INFO - Lambda: 1e-05
+2024-10-28 21:22:48,710 - INFO - Add noist: True
+2024-10-28 21:22:48,710 - INFO - noise_level: 0.1
+2024-10-28 21:27:27,093 - INFO - Threshold: 1
+2024-10-28 21:27:27,093 - INFO - Subsample: False
+2024-10-28 21:27:27,093 - INFO - Avg Threshold: 10
+2024-10-28 21:27:27,093 - INFO - Std Threshold: 3
+2024-10-28 21:27:27,093 - INFO - Clipping: True
+2024-10-28 21:27:27,093 - INFO - Data Augmentation: True
+2024-10-28 21:27:27,093 - INFO - Number of copies: 9
+2024-10-28 21:27:27,093 - INFO - Random Vector: False
+2024-10-28 21:27:27,093 - INFO - Max Iterations: 50000
+2024-10-28 21:27:27,093 - INFO - Learning Rate: 0.0001
+2024-10-28 21:27:27,093 - INFO - SGD: True
+2024-10-28 21:27:27,093 - INFO - Batch Size: 64
+2024-10-28 21:27:27,093 - INFO - Shuffle: True
+2024-10-28 21:27:27,093 - INFO - Regularization: True
+2024-10-28 21:27:27,093 - INFO - Lambda: 1e-05
+2024-10-28 21:27:27,093 - INFO - Add noise: True
+2024-10-28 21:27:27,093 - INFO - noise_level: 0.1
+2024-10-28 21:27:27,093 - INFO - acc.: 0.688780532402822
+2024-10-28 21:27:27,093 - INFO - F1 Score: 0.32473286077020735
+2024-10-28 21:29:50,977 - INFO - Threshold: 1
+2024-10-28 21:29:50,977 - INFO - Subsample: False
+2024-10-28 21:29:50,977 - INFO - Avg Threshold: 10
+2024-10-28 21:29:50,977 - INFO - Std Threshold: 3
+2024-10-28 21:29:50,977 - INFO - Clipping: True
+2024-10-28 21:29:50,977 - INFO - Data Augmentation: True
+2024-10-28 21:29:50,977 - INFO - Number of copies: 9
+2024-10-28 21:29:50,977 - INFO - Random Vector: False
+2024-10-28 21:29:50,978 - INFO - Max Iterations: 50000
+2024-10-28 21:29:50,978 - INFO - Learning Rate: 0.0001
+2024-10-28 21:29:50,978 - INFO - SGD: True
+2024-10-28 21:29:50,978 - INFO - Batch Size: 64
+2024-10-28 21:29:50,978 - INFO - Shuffle: True
+2024-10-28 21:29:50,978 - INFO - Regularization: True
+2024-10-28 21:29:50,978 - INFO - Lambda: 1e-06
+2024-10-28 21:29:50,978 - INFO - Add noise: True
+2024-10-28 21:29:50,978 - INFO - noise_level: 0.1
+2024-10-28 21:29:50,978 - INFO - acc.: 0.6436375272372652
+2024-10-28 21:29:50,978 - INFO - F1 Score: 0.3049388660045056
+2024-10-28 21:31:47,334 - INFO - Threshold: 1
+2024-10-28 21:31:47,334 - INFO - Subsample: False
+2024-10-28 21:31:47,334 - INFO - Avg Threshold: 10
+2024-10-28 21:31:47,334 - INFO - Std Threshold: 3
+2024-10-28 21:31:47,334 - INFO - Clipping: True
+2024-10-28 21:31:47,334 - INFO - Data Augmentation: True
+2024-10-28 21:31:47,334 - INFO - Number of copies: 5
+2024-10-28 21:31:47,334 - INFO - Random Vector: False
+2024-10-28 21:31:47,334 - INFO - Max Iterations: 50000
+2024-10-28 21:31:47,334 - INFO - Learning Rate: 0.0001
+2024-10-28 21:31:47,334 - INFO - SGD: True
+2024-10-28 21:31:47,334 - INFO - Batch Size: 64
+2024-10-28 21:31:47,334 - INFO - Shuffle: True
+2024-10-28 21:31:47,334 - INFO - Regularization: True
+2024-10-28 21:31:47,334 - INFO - Lambda: 1e-06
+2024-10-28 21:31:47,334 - INFO - Add noise: True
+2024-10-28 21:31:47,334 - INFO - noise_level: 0.1
+2024-10-28 21:31:47,334 - INFO - acc.: 0.7147485029027687
+2024-10-28 21:31:47,334 - INFO - F1 Score: 0.33114911070936026
+2024-10-28 21:33:55,793 - INFO - Threshold: 1
+2024-10-28 21:33:55,793 - INFO - Subsample: False
+2024-10-28 21:33:55,793 - INFO - Avg Threshold: 10
+2024-10-28 21:33:55,793 - INFO - Std Threshold: 3
+2024-10-28 21:33:55,793 - INFO - Clipping: True
+2024-10-28 21:33:55,793 - INFO - Data Augmentation: True
+2024-10-28 21:33:55,793 - INFO - Number of copies: 5
+2024-10-28 21:33:55,793 - INFO - Random Vector: False
+2024-10-28 21:33:55,793 - INFO - Max Iterations: 50000
+2024-10-28 21:33:55,793 - INFO - Learning Rate: 0.0001
+2024-10-28 21:33:55,793 - INFO - SGD: True
+2024-10-28 21:33:55,793 - INFO - Batch Size: 64
+2024-10-28 21:33:55,793 - INFO - Shuffle: True
+2024-10-28 21:33:55,793 - INFO - Regularization: True
+2024-10-28 21:33:55,793 - INFO - Lambda: 1e-06
+2024-10-28 21:33:55,793 - INFO - Add noise: True
+2024-10-28 21:33:55,793 - INFO - noise_level: 0.1
+2024-10-28 21:33:55,793 - INFO - acc.: 0.7148003108476694
+2024-10-28 21:33:55,793 - INFO - F1 Score: 0.331141542068098
+2024-10-28 21:35:43,130 - INFO - Threshold: 1
+2024-10-28 21:35:43,130 - INFO - Subsample: False
+2024-10-28 21:35:43,130 - INFO - Avg Threshold: 10
+2024-10-28 21:35:43,130 - INFO - Std Threshold: 3
+2024-10-28 21:35:43,130 - INFO - Clipping: True
+2024-10-28 21:35:43,130 - INFO - Data Augmentation: True
+2024-10-28 21:35:43,131 - INFO - Number of copies: 5
+2024-10-28 21:35:43,131 - INFO - Random Vector: False
+2024-10-28 21:35:43,131 - INFO - Max Iterations: 50000
+2024-10-28 21:35:43,131 - INFO - Learning Rate: 0.0001
+2024-10-28 21:35:43,131 - INFO - SGD: True
+2024-10-28 21:35:43,131 - INFO - Batch Size: 64
+2024-10-28 21:35:43,131 - INFO - Shuffle: True
+2024-10-28 21:35:43,131 - INFO - Regularization: True
+2024-10-28 21:35:43,131 - INFO - Lambda: 1e-06
+2024-10-28 21:35:43,131 - INFO - Add noise: True
+2024-10-28 21:35:43,131 - INFO - noise_level: 0.1
+2024-10-28 21:35:43,131 - INFO - acc.: 0.7150745882030262
+2024-10-28 21:35:43,131 - INFO - F1 Score: 0.3310006296868739
+2024-10-28 21:37:30,038 - INFO - Threshold: 1
+2024-10-28 21:37:30,038 - INFO - Subsample: False
+2024-10-28 21:37:30,038 - INFO - Avg Threshold: 10
+2024-10-28 21:37:30,038 - INFO - Std Threshold: 3
+2024-10-28 21:37:30,038 - INFO - Clipping: True
+2024-10-28 21:37:30,038 - INFO - Data Augmentation: True
+2024-10-28 21:37:30,038 - INFO - Number of copies: 5
+2024-10-28 21:37:30,038 - INFO - Random Vector: False
+2024-10-28 21:37:30,038 - INFO - Max Iterations: 50000
+2024-10-28 21:37:30,038 - INFO - Learning Rate: 0.0001
+2024-10-28 21:37:30,038 - INFO - SGD: True
+2024-10-28 21:37:30,038 - INFO - Batch Size: 64
+2024-10-28 21:37:30,038 - INFO - Shuffle: True
+2024-10-28 21:37:30,038 - INFO - Regularization: True
+2024-10-28 21:37:30,038 - INFO - Lambda: 1e-05
+2024-10-28 21:37:30,038 - INFO - Add noise: True
+2024-10-28 21:37:30,039 - INFO - noise_level: 0.1
+2024-10-28 21:37:30,039 - INFO - acc.: 0.7149953525225898
+2024-10-28 21:37:30,039 - INFO - F1 Score: 0.33131220684132257
+2024-10-28 21:40:08,347 - INFO - Threshold: 1
+2024-10-28 21:40:08,347 - INFO - Subsample: False
+2024-10-28 21:40:08,347 - INFO - Avg Threshold: 10
+2024-10-28 21:40:08,347 - INFO - Std Threshold: 3
+2024-10-28 21:40:08,347 - INFO - Clipping: True
+2024-10-28 21:40:08,347 - INFO - Data Augmentation: True
+2024-10-28 21:40:08,347 - INFO - Number of copies: 8
+2024-10-28 21:40:08,347 - INFO - Random Vector: False
+2024-10-28 21:40:08,347 - INFO - Max Iterations: 50000
+2024-10-28 21:40:08,347 - INFO - Learning Rate: 1e-05
+2024-10-28 21:40:08,347 - INFO - SGD: True
+2024-10-28 21:40:08,347 - INFO - Batch Size: 64
+2024-10-28 21:40:08,347 - INFO - Shuffle: True
+2024-10-28 21:40:08,347 - INFO - Regularization: True
+2024-10-28 21:40:08,347 - INFO - Lambda: 1e-05
+2024-10-28 21:40:08,347 - INFO - Add noise: True
+2024-10-28 21:40:08,347 - INFO - noise_level: 0.1
+2024-10-28 21:40:08,347 - INFO - acc.: 0.5217151477288311
+2024-10-28 21:40:08,347 - INFO - F1 Score: 0.25773985754689316
+2024-10-28 21:42:57,885 - INFO - Threshold: 1
+2024-10-28 21:42:57,885 - INFO - Subsample: False
+2024-10-28 21:42:57,885 - INFO - Avg Threshold: 10
+2024-10-28 21:42:57,886 - INFO - Std Threshold: 3
+2024-10-28 21:42:57,886 - INFO - Clipping: True
+2024-10-28 21:42:57,886 - INFO - Data Augmentation: True
+2024-10-28 21:42:57,886 - INFO - Number of copies: 8
+2024-10-28 21:42:57,886 - INFO - Random Vector: False
+2024-10-28 21:42:57,886 - INFO - Max Iterations: 50000
+2024-10-28 21:42:57,886 - INFO - Learning Rate: 1e-05
+2024-10-28 21:42:57,886 - INFO - SGD: True
+2024-10-28 21:42:57,886 - INFO - Batch Size: 64
+2024-10-28 21:42:57,886 - INFO - Shuffle: True
+2024-10-28 21:42:57,886 - INFO - Regularization: True
+2024-10-28 21:42:57,886 - INFO - Lambda: 1e-05
+2024-10-28 21:42:57,886 - INFO - Add noise: True
+2024-10-28 21:42:57,886 - INFO - noise_level: 0.1
+2024-10-28 21:42:57,886 - INFO - acc.: 0.6057293492007862
+2024-10-28 21:42:57,886 - INFO - F1 Score: 0.2854791675871515
+2024-10-28 22:49:54,569 - INFO - Threshold: 1
+2024-10-28 22:49:54,576 - INFO - Subsample: False
+2024-10-28 22:49:54,576 - INFO - Avg Threshold: 10
+2024-10-28 22:49:54,576 - INFO - Std Threshold: 3
+2024-10-28 22:49:54,576 - INFO - Clipping: True
+2024-10-28 22:49:54,576 - INFO - Data Augmentation: True
+2024-10-28 22:49:54,576 - INFO - Number of copies: 8
+2024-10-28 22:49:54,576 - INFO - Random Vector: False
+2024-10-28 22:49:54,576 - INFO - Max Iterations: 50000
+2024-10-28 22:49:54,576 - INFO - Learning Rate: 0.0001
+2024-10-28 22:49:54,576 - INFO - SGD: True
+2024-10-28 22:49:54,576 - INFO - Batch Size: 64
+2024-10-28 22:49:54,576 - INFO - Shuffle: True
+2024-10-28 22:49:54,576 - INFO - Regularization: True
+2024-10-28 22:49:54,576 - INFO - Lambda: 1e-05
+2024-10-28 22:49:54,576 - INFO - Add noise: True
+2024-10-28 22:49:54,576 - INFO - noise_level: 0.1
+2024-10-28 22:49:54,576 - INFO - acc.: 0.7028601033111371
+2024-10-28 22:49:54,576 - INFO - F1 Score: 0.33028821056680496
+2024-10-28 22:51:37,606 - INFO - Threshold: 1
+2024-10-28 22:51:37,607 - INFO - Subsample: False
+2024-10-28 22:51:37,607 - INFO - Avg Threshold: 10
+2024-10-28 22:51:37,607 - INFO - Std Threshold: 3
+2024-10-28 22:51:37,607 - INFO - Clipping: True
+2024-10-28 22:51:37,607 - INFO - Data Augmentation: True
+2024-10-28 22:51:37,607 - INFO - Number of copies: 8
+2024-10-28 22:51:37,607 - INFO - Random Vector: False
+2024-10-28 22:51:37,607 - INFO - Max Iterations: 50000
+2024-10-28 22:51:37,607 - INFO - Learning Rate: 1e-06
+2024-10-28 22:51:37,607 - INFO - SGD: True
+2024-10-28 22:51:37,607 - INFO - Batch Size: 64
+2024-10-28 22:51:37,607 - INFO - Shuffle: True
+2024-10-28 22:51:37,607 - INFO - Regularization: True
+2024-10-28 22:51:37,607 - INFO - Lambda: 1e-05
+2024-10-28 22:51:37,607 - INFO - Add noise: True
+2024-10-28 22:51:37,607 - INFO - noise_level: 0.1
+2024-10-28 22:51:37,607 - INFO - acc.: 0.5814100903591509
+2024-10-28 22:51:37,607 - INFO - F1 Score: 0.27204986061499
+2024-10-28 23:07:08,389 - INFO - Threshold: 1
+2024-10-28 23:07:08,390 - INFO - Subsample: False
+2024-10-28 23:07:08,390 - INFO - Avg Threshold: 10
+2024-10-28 23:07:08,390 - INFO - Std Threshold: 3
+2024-10-28 23:07:08,390 - INFO - Clipping: True
+2024-10-28 23:07:08,390 - INFO - Data Augmentation: True
+2024-10-28 23:07:08,390 - INFO - Number of copies: 8
+2024-10-28 23:07:08,390 - INFO - Random Vector: False
+2024-10-28 23:07:08,390 - INFO - Max Iterations: 50000
+2024-10-28 23:07:08,390 - INFO - Learning Rate: 1e-05
+2024-10-28 23:07:08,390 - INFO - SGD: True
+2024-10-28 23:07:08,390 - INFO - Batch Size: 64
+2024-10-28 23:07:08,390 - INFO - Shuffle: True
+2024-10-28 23:07:08,390 - INFO - Regularization: True
+2024-10-28 23:07:08,390 - INFO - Lambda: 1e-05
+2024-10-28 23:07:08,390 - INFO - Add noise: True
+2024-10-28 23:07:08,390 - INFO - noise_level: 0.1
+2024-10-28 23:07:08,390 - INFO - acc.: 0.6056318283633261
+2024-10-28 23:07:08,390 - INFO - F1 Score: 0.2854445057979017
+2024-10-28 23:09:11,347 - INFO - Threshold: 1
+2024-10-28 23:09:11,348 - INFO - Subsample: False
+2024-10-28 23:09:11,348 - INFO - Avg Threshold: 10
+2024-10-28 23:09:11,348 - INFO - Std Threshold: 3
+2024-10-28 23:09:11,348 - INFO - Clipping: True
+2024-10-28 23:09:11,348 - INFO - Data Augmentation: True
+2024-10-28 23:09:11,348 - INFO - Number of copies: 8
+2024-10-28 23:09:11,348 - INFO - Random Vector: False
+2024-10-28 23:09:11,348 - INFO - Max Iterations: 50000
+2024-10-28 23:09:11,348 - INFO - Learning Rate: 1e-06
+2024-10-28 23:09:11,348 - INFO - SGD: True
+2024-10-28 23:09:11,348 - INFO - Batch Size: 64
+2024-10-28 23:09:11,348 - INFO - Shuffle: True
+2024-10-28 23:09:11,348 - INFO - Regularization: True
+2024-10-28 23:09:11,348 - INFO - Lambda: 1e-05
+2024-10-28 23:09:11,348 - INFO - Add noise: True
+2024-10-28 23:09:11,348 - INFO - noise_level: 0.1
+2024-10-28 23:09:11,348 - INFO - acc.: 0.581294284364667
+2024-10-28 23:09:11,348 - INFO - F1 Score: 0.2719565056116663
+2024-10-28 23:12:00,503 - INFO - Threshold: 1
+2024-10-28 23:12:00,504 - INFO - Subsample: False
+2024-10-28 23:12:00,504 - INFO - Avg Threshold: 10
+2024-10-28 23:12:00,504 - INFO - Std Threshold: 3
+2024-10-28 23:12:00,504 - INFO - Clipping: True
+2024-10-28 23:12:00,504 - INFO - Data Augmentation: True
+2024-10-28 23:12:00,504 - INFO - Number of copies: 8
+2024-10-28 23:12:00,504 - INFO - Random Vector: False
+2024-10-28 23:12:00,504 - INFO - Max Iterations: 50000
+2024-10-28 23:12:00,504 - INFO - Learning Rate: 1e-06
+2024-10-28 23:12:00,504 - INFO - SGD: True
+2024-10-28 23:12:00,504 - INFO - Batch Size: 64
+2024-10-28 23:12:00,504 - INFO - Shuffle: True
+2024-10-28 23:12:00,504 - INFO - Regularization: True
+2024-10-28 23:12:00,505 - INFO - Lambda: 1e-05
+2024-10-28 23:12:00,505 - INFO - Add noise: True
+2024-10-28 23:12:00,505 - INFO - noise_level: 0.1
+2024-10-28 23:12:00,505 - INFO - acc.: 0.5815076111966111
+2024-10-28 23:12:00,505 - INFO - F1 Score: 0.2720882895490109
+2024-10-28 23:14:36,177 - INFO - Threshold: 1
+2024-10-28 23:14:36,177 - INFO - Subsample: False
+2024-10-28 23:14:36,177 - INFO - Avg Threshold: 10
+2024-10-28 23:14:36,177 - INFO - Std Threshold: 3
+2024-10-28 23:14:36,177 - INFO - Clipping: True
+2024-10-28 23:14:36,177 - INFO - Data Augmentation: False
+2024-10-28 23:14:36,177 - INFO - Random Vector: False
+2024-10-28 23:14:36,177 - INFO - Max Iterations: 50000
+2024-10-28 23:14:36,177 - INFO - Learning Rate: 1e-05
+2024-10-28 23:14:36,177 - INFO - SGD: True
+2024-10-28 23:14:36,177 - INFO - Batch Size: 64
+2024-10-28 23:14:36,177 - INFO - Shuffle: True
+2024-10-28 23:14:36,177 - INFO - Regularization: True
+2024-10-28 23:14:36,177 - INFO - Lambda: 1e-05
+2024-10-28 23:14:36,177 - INFO - Add noise: True
+2024-10-28 23:14:36,177 - INFO - noise_level: 0.1
+2024-10-28 23:14:36,177 - INFO - acc.: 0.11851829277583921
+2024-10-28 23:14:36,177 - INFO - F1 Score: 0.16676989200229303
+2024-10-28 23:16:11,460 - INFO - Threshold: 1
+2024-10-28 23:16:11,460 - INFO - Subsample: False
+2024-10-28 23:16:11,460 - INFO - Avg Threshold: 10
+2024-10-28 23:16:11,460 - INFO - Std Threshold: 3
+2024-10-28 23:16:11,460 - INFO - Clipping: False
+2024-10-28 23:16:11,460 - INFO - Data Augmentation: False
+2024-10-28 23:16:11,460 - INFO - Random Vector: False
+2024-10-28 23:16:11,460 - INFO - Max Iterations: 50000
+2024-10-28 23:16:11,460 - INFO - Learning Rate: 1e-05
+2024-10-28 23:16:11,460 - INFO - SGD: True
+2024-10-28 23:16:11,460 - INFO - Batch Size: 64
+2024-10-28 23:16:11,460 - INFO - Shuffle: True
+2024-10-28 23:16:11,460 - INFO - Regularization: True
+2024-10-28 23:16:11,460 - INFO - Lambda: 1e-05
+2024-10-28 23:16:11,460 - INFO - Add noise: True
+2024-10-28 23:16:11,460 - INFO - noise_level: 0.1
+2024-10-28 23:16:11,460 - INFO - acc.: 0.08981973882700718
+2024-10-28 23:16:11,460 - INFO - F1 Score: 0.16248275397920384
+2024-10-28 23:18:13,640 - INFO - Threshold: 1
+2024-10-28 23:18:13,640 - INFO - Subsample: False
+2024-10-28 23:18:13,640 - INFO - Avg Threshold: 10
+2024-10-28 23:18:13,640 - INFO - Std Threshold: 3
+2024-10-28 23:18:13,640 - INFO - Clipping: False
+2024-10-28 23:18:13,640 - INFO - Data Augmentation: False
+2024-10-28 23:18:13,640 - INFO - Random Vector: False
+2024-10-28 23:18:13,641 - INFO - Max Iterations: 50000
+2024-10-28 23:18:13,641 - INFO - Learning Rate: 0.0001
+2024-10-28 23:18:13,641 - INFO - SGD: True
+2024-10-28 23:18:13,641 - INFO - Batch Size: 64
+2024-10-28 23:18:13,641 - INFO - Shuffle: True
+2024-10-28 23:18:13,641 - INFO - Regularization: True
+2024-10-28 23:18:13,641 - INFO - Lambda: 1e-05
+2024-10-28 23:18:13,641 - INFO - Add noise: True
+2024-10-28 23:18:13,641 - INFO - noise_level: 0.1
+2024-10-28 23:18:13,641 - INFO - acc.: 0.914373657183781
+2024-10-28 23:18:13,641 - INFO - F1 Score: 0.1637548736569541
+2024-10-28 23:20:22,895 - INFO - Threshold: 1
+2024-10-28 23:20:22,895 - INFO - Subsample: False
+2024-10-28 23:20:22,895 - INFO - Avg Threshold: 10
+2024-10-28 23:20:22,895 - INFO - Std Threshold: 3
+2024-10-28 23:20:22,895 - INFO - Clipping: False
+2024-10-28 23:20:22,895 - INFO - Data Augmentation: True
+2024-10-28 23:20:22,895 - INFO - Number of copies: 8
+2024-10-28 23:20:22,895 - INFO - Random Vector: False
+2024-10-28 23:20:22,895 - INFO - Max Iterations: 50000
+2024-10-28 23:20:22,895 - INFO - Learning Rate: 0.0001
+2024-10-28 23:20:22,895 - INFO - SGD: True
+2024-10-28 23:20:22,895 - INFO - Batch Size: 64
+2024-10-28 23:20:22,895 - INFO - Shuffle: True
+2024-10-28 23:20:22,895 - INFO - Regularization: True
+2024-10-28 23:20:22,896 - INFO - Lambda: 1e-05
+2024-10-28 23:20:22,896 - INFO - Add noise: True
+2024-10-28 23:20:22,896 - INFO - noise_level: 0.1
+2024-10-28 23:20:22,896 - INFO - acc.: 0.7171438584728846
+2024-10-28 23:20:22,896 - INFO - F1 Score: 0.3424045117363242
+2024-10-28 23:22:21,033 - INFO - Threshold: 1
+2024-10-28 23:22:21,034 - INFO - Subsample: False
+2024-10-28 23:22:21,034 - INFO - Avg Threshold: 10
+2024-10-28 23:22:21,034 - INFO - Std Threshold: 3
+2024-10-28 23:22:21,034 - INFO - Clipping: False
+2024-10-28 23:22:21,034 - INFO - Data Augmentation: True
+2024-10-28 23:22:21,034 - INFO - Number of copies: 9
+2024-10-28 23:22:21,034 - INFO - Random Vector: False
+2024-10-28 23:22:21,034 - INFO - Max Iterations: 50000
+2024-10-28 23:22:21,034 - INFO - Learning Rate: 0.0001
+2024-10-28 23:22:21,034 - INFO - SGD: True
+2024-10-28 23:22:21,034 - INFO - Batch Size: 64
+2024-10-28 23:22:21,034 - INFO - Shuffle: True
+2024-10-28 23:22:21,034 - INFO - Regularization: True
+2024-10-28 23:22:21,034 - INFO - Lambda: 1e-05
+2024-10-28 23:22:21,034 - INFO - Add noise: True
+2024-10-28 23:22:21,034 - INFO - noise_level: 0.1
+2024-10-28 23:22:21,034 - INFO - acc.: 0.7000502841818154
+2024-10-28 23:22:21,034 - INFO - F1 Score: 0.33405504885111914
+2024-10-28 23:24:17,503 - INFO - Threshold: 1
+2024-10-28 23:24:17,503 - INFO - Subsample: False
+2024-10-28 23:24:17,503 - INFO - Avg Threshold: 10
+2024-10-28 23:24:17,503 - INFO - Std Threshold: 3
+2024-10-28 23:24:17,503 - INFO - Clipping: False
+2024-10-28 23:24:17,503 - INFO - Data Augmentation: True
+2024-10-28 23:24:17,503 - INFO - Number of copies: 7
+2024-10-28 23:24:17,503 - INFO - Random Vector: False
+2024-10-28 23:24:17,503 - INFO - Max Iterations: 50000
+2024-10-28 23:24:17,503 - INFO - Learning Rate: 0.0001
+2024-10-28 23:24:17,503 - INFO - SGD: True
+2024-10-28 23:24:17,503 - INFO - Batch Size: 64
+2024-10-28 23:24:17,503 - INFO - Shuffle: True
+2024-10-28 23:24:17,503 - INFO - Regularization: True
+2024-10-28 23:24:17,503 - INFO - Lambda: 1e-05
+2024-10-28 23:24:17,503 - INFO - Add noise: True
+2024-10-28 23:24:17,503 - INFO - noise_level: 0.1
+2024-10-28 23:24:17,503 - INFO - acc.: 0.7368491626921846
+2024-10-28 23:24:17,503 - INFO - F1 Score: 0.35202125184790517
+2024-10-28 23:26:36,086 - INFO - Threshold: 1
+2024-10-28 23:26:36,086 - INFO - Subsample: False
+2024-10-28 23:26:36,086 - INFO - Avg Threshold: 10
+2024-10-28 23:26:36,086 - INFO - Std Threshold: 3
+2024-10-28 23:26:36,086 - INFO - Clipping: False
+2024-10-28 23:26:36,086 - INFO - Data Augmentation: True
+2024-10-28 23:26:36,086 - INFO - Number of copies: 6
+2024-10-28 23:26:36,086 - INFO - Random Vector: False
+2024-10-28 23:26:36,086 - INFO - Max Iterations: 50000
+2024-10-28 23:26:36,087 - INFO - Learning Rate: 0.0001
+2024-10-28 23:26:36,087 - INFO - SGD: True
+2024-10-28 23:26:36,087 - INFO - Batch Size: 64
+2024-10-28 23:26:36,087 - INFO - Shuffle: True
+2024-10-28 23:26:36,087 - INFO - Regularization: True
+2024-10-28 23:26:36,087 - INFO - Lambda: 1e-05
+2024-10-28 23:26:36,087 - INFO - Add noise: True
+2024-10-28 23:26:36,087 - INFO - noise_level: 0.1
+2024-10-28 23:26:36,087 - INFO - acc.: 0.7615036494125893
+2024-10-28 23:26:36,087 - INFO - F1 Score: 0.36476537578025436
+2024-10-28 23:28:39,770 - INFO - Threshold: 1
+2024-10-28 23:28:39,770 - INFO - Subsample: False
+2024-10-28 23:28:39,770 - INFO - Avg Threshold: 10
+2024-10-28 23:28:39,771 - INFO - Std Threshold: 3
+2024-10-28 23:28:39,771 - INFO - Clipping: False
+2024-10-28 23:28:39,771 - INFO - Data Augmentation: True
+2024-10-28 23:28:39,771 - INFO - Number of copies: 5
+2024-10-28 23:28:39,771 - INFO - Random Vector: False
+2024-10-28 23:28:39,771 - INFO - Max Iterations: 50000
+2024-10-28 23:28:39,771 - INFO - Learning Rate: 0.0001
+2024-10-28 23:28:39,771 - INFO - SGD: True
+2024-10-28 23:28:39,771 - INFO - Batch Size: 64
+2024-10-28 23:28:39,771 - INFO - Shuffle: True
+2024-10-28 23:28:39,771 - INFO - Regularization: True
+2024-10-28 23:28:39,771 - INFO - Lambda: 1e-05
+2024-10-28 23:28:39,771 - INFO - Add noise: True
+2024-10-28 23:28:39,771 - INFO - noise_level: 0.1
+2024-10-28 23:28:39,771 - INFO - acc.: 0.7890959513614824
+2024-10-28 23:28:39,771 - INFO - F1 Score: 0.3792327081259026
+2024-10-28 23:30:25,740 - INFO - Threshold: 1
+2024-10-28 23:30:25,740 - INFO - Subsample: False
+2024-10-28 23:30:25,740 - INFO - Avg Threshold: 10
+2024-10-28 23:30:25,740 - INFO - Std Threshold: 3
+2024-10-28 23:30:25,740 - INFO - Clipping: False
+2024-10-28 23:30:25,740 - INFO - Data Augmentation: True
+2024-10-28 23:30:25,740 - INFO - Number of copies: 4
+2024-10-28 23:30:25,741 - INFO - Random Vector: False
+2024-10-28 23:30:25,741 - INFO - Max Iterations: 50000
+2024-10-28 23:30:25,741 - INFO - Learning Rate: 0.0001
+2024-10-28 23:30:25,741 - INFO - SGD: True
+2024-10-28 23:30:25,741 - INFO - Batch Size: 64
+2024-10-28 23:30:25,741 - INFO - Shuffle: True
+2024-10-28 23:30:25,741 - INFO - Regularization: True
+2024-10-28 23:30:25,741 - INFO - Lambda: 1e-05
+2024-10-28 23:30:25,741 - INFO - Add noise: True
+2024-10-28 23:30:25,741 - INFO - noise_level: 0.1
+2024-10-28 23:30:25,741 - INFO - acc.: 0.8224176025111616
+2024-10-28 23:30:25,741 - INFO - F1 Score: 0.39618672607636907
+2024-10-28 23:32:31,264 - INFO - Threshold: 1
+2024-10-28 23:32:31,264 - INFO - Subsample: False
+2024-10-28 23:32:31,264 - INFO - Avg Threshold: 10
+2024-10-28 23:32:31,264 - INFO - Std Threshold: 3
+2024-10-28 23:32:31,264 - INFO - Clipping: False
+2024-10-28 23:32:31,264 - INFO - Data Augmentation: True
+2024-10-28 23:32:31,264 - INFO - Number of copies: 3
+2024-10-28 23:32:31,264 - INFO - Random Vector: False
+2024-10-28 23:32:31,264 - INFO - Max Iterations: 50000
+2024-10-28 23:32:31,264 - INFO - Learning Rate: 0.0001
+2024-10-28 23:32:31,265 - INFO - SGD: True
+2024-10-28 23:32:31,265 - INFO - Batch Size: 64
+2024-10-28 23:32:31,265 - INFO - Shuffle: True
+2024-10-28 23:32:31,265 - INFO - Regularization: True
+2024-10-28 23:32:31,265 - INFO - Lambda: 1e-05
+2024-10-28 23:32:31,265 - INFO - Add noise: True
+2024-10-28 23:32:31,265 - INFO - noise_level: 0.1
+2024-10-28 23:32:31,265 - INFO - acc.: 0.8579243299251832
+2024-10-28 23:32:31,265 - INFO - F1 Score: 0.4069607693481911
+2024-10-28 23:34:50,657 - INFO - Threshold: 1
+2024-10-28 23:34:50,657 - INFO - Subsample: False
+2024-10-28 23:34:50,657 - INFO - Avg Threshold: 10
+2024-10-28 23:34:50,657 - INFO - Std Threshold: 3
+2024-10-28 23:34:50,657 - INFO - Clipping: False
+2024-10-28 23:34:50,657 - INFO - Data Augmentation: True
+2024-10-28 23:34:50,657 - INFO - Number of copies: 3
+2024-10-28 23:34:50,657 - INFO - Random Vector: False
+2024-10-28 23:34:50,657 - INFO - Max Iterations: 50000
+2024-10-28 23:34:50,657 - INFO - Learning Rate: 0.0001
+2024-10-28 23:34:50,657 - INFO - SGD: True
+2024-10-28 23:34:50,657 - INFO - Batch Size: 64
+2024-10-28 23:34:50,657 - INFO - Shuffle: True
+2024-10-28 23:34:50,657 - INFO - Regularization: True
+2024-10-28 23:34:50,657 - INFO - Lambda: 1e-05
+2024-10-28 23:34:50,657 - INFO - Add noise: True
+2024-10-28 23:34:50,657 - INFO - noise_level: 0.1
+2024-10-28 23:34:50,657 - INFO - acc.: 0.8202843341917199
+2024-10-28 23:34:50,657 - INFO - F1 Score: 0.39542346295403985
+2024-10-28 23:36:23,883 - INFO - Threshold: 1
+2024-10-28 23:36:23,883 - INFO - Subsample: False
+2024-10-28 23:36:23,883 - INFO - Avg Threshold: 10
+2024-10-28 23:36:23,883 - INFO - Std Threshold: 3
+2024-10-28 23:36:23,883 - INFO - Clipping: False
+2024-10-28 23:36:23,883 - INFO - Data Augmentation: True
+2024-10-28 23:36:23,883 - INFO - Number of copies: 3
+2024-10-28 23:36:23,883 - INFO - Random Vector: False
+2024-10-28 23:36:23,883 - INFO - Max Iterations: 50000
+2024-10-28 23:36:23,883 - INFO - Learning Rate: 0.0001
+2024-10-28 23:36:23,883 - INFO - SGD: True
+2024-10-28 23:36:23,883 - INFO - Batch Size: 64
+2024-10-28 23:36:23,883 - INFO - Shuffle: True
+2024-10-28 23:36:23,883 - INFO - Regularization: True
+2024-10-28 23:36:23,883 - INFO - Lambda: 1e-05
+2024-10-28 23:36:23,883 - INFO - Add noise: True
+2024-10-28 23:36:23,883 - INFO - noise_level: 0.1
+2024-10-28 23:36:23,884 - INFO - acc.: 0.8208755542688223
+2024-10-28 23:36:23,884 - INFO - F1 Score: 0.3952299128502197
+2024-10-28 23:38:26,039 - INFO - Threshold: 1
+2024-10-28 23:38:26,039 - INFO - Subsample: False
+2024-10-28 23:38:26,039 - INFO - Avg Threshold: 10
+2024-10-28 23:38:26,039 - INFO - Std Threshold: 3
+2024-10-28 23:38:26,039 - INFO - Clipping: False
+2024-10-28 23:38:26,039 - INFO - Data Augmentation: True
+2024-10-28 23:38:26,039 - INFO - Number of copies: 3
+2024-10-28 23:38:26,039 - INFO - Random Vector: False
+2024-10-28 23:38:26,039 - INFO - Max Iterations: 50000
+2024-10-28 23:38:26,040 - INFO - Learning Rate: 1e-05
+2024-10-28 23:38:26,040 - INFO - SGD: True
+2024-10-28 23:38:26,040 - INFO - Batch Size: 64
+2024-10-28 23:38:26,040 - INFO - Shuffle: True
+2024-10-28 23:38:26,040 - INFO - Regularization: True
+2024-10-28 23:38:26,040 - INFO - Lambda: 1e-05
+2024-10-28 23:38:26,040 - INFO - Add noise: True
+2024-10-28 23:38:26,040 - INFO - noise_level: 0.1
+2024-10-28 23:38:26,040 - INFO - acc.: 0.5462477334024106
+2024-10-28 23:38:26,040 - INFO - F1 Score: 0.26618038442582553
+2024-10-28 23:41:14,903 - INFO - Threshold: 1
+2024-10-28 23:41:14,905 - INFO - Subsample: False
+2024-10-28 23:41:14,905 - INFO - Avg Threshold: 10
+2024-10-28 23:41:14,905 - INFO - Std Threshold: 3
+2024-10-28 23:41:14,905 - INFO - Clipping: False
+2024-10-28 23:41:14,905 - INFO - Data Augmentation: True
+2024-10-28 23:41:14,905 - INFO - Number of copies: 3
+2024-10-28 23:41:14,905 - INFO - Random Vector: False
+2024-10-28 23:41:14,905 - INFO - Max Iterations: 100000
+2024-10-28 23:41:14,905 - INFO - Learning Rate: 5e-05
+2024-10-28 23:41:14,905 - INFO - SGD: True
+2024-10-28 23:41:14,905 - INFO - Batch Size: 64
+2024-10-28 23:41:14,905 - INFO - Shuffle: True
+2024-10-28 23:41:14,905 - INFO - Regularization: True
+2024-10-28 23:41:14,905 - INFO - Lambda: 1e-05
+2024-10-28 23:41:14,905 - INFO - Add noise: True
+2024-10-28 23:41:14,905 - INFO - noise_level: 0.1
+2024-10-28 23:41:14,905 - INFO - acc.: 0.8208085086930684
+2024-10-28 23:41:14,905 - INFO - F1 Score: 0.39537681621404847
+2024-10-28 23:53:13,394 - INFO - Threshold: 1
+2024-10-28 23:53:13,394 - INFO - Subsample: False
+2024-10-28 23:53:13,394 - INFO - Avg Threshold: 10
+2024-10-28 23:53:13,394 - INFO - Std Threshold: 3
+2024-10-28 23:53:13,394 - INFO - Clipping: False
+2024-10-28 23:53:13,394 - INFO - Data Augmentation: True
+2024-10-28 23:53:13,395 - INFO - Number of copies: 4
+2024-10-28 23:53:13,395 - INFO - Random Vector: False
+2024-10-28 23:53:13,395 - INFO - Max Iterations: 100000
+2024-10-28 23:53:13,395 - INFO - Learning Rate: 5e-05
+2024-10-28 23:53:13,395 - INFO - SGD: True
+2024-10-28 23:53:13,395 - INFO - Batch Size: 64
+2024-10-28 23:53:13,395 - INFO - Shuffle: True
+2024-10-28 23:53:13,395 - INFO - Regularization: True
+2024-10-28 23:53:13,395 - INFO - Lambda: 1e-05
+2024-10-28 23:53:13,395 - INFO - Add noise: True
+2024-10-28 23:53:13,395 - INFO - noise_level: 0.1
+2024-10-28 23:53:13,395 - INFO - acc.: 0.8680939247565789
+2024-10-28 23:53:13,395 - INFO - F1 Score: 0.42168272249909805
+2024-10-28 23:59:02,893 - INFO - Threshold: 1
+2024-10-28 23:59:02,894 - INFO - Subsample: False
+2024-10-28 23:59:02,894 - INFO - Avg Threshold: 10
+2024-10-28 23:59:02,894 - INFO - Std Threshold: 3
+2024-10-28 23:59:02,894 - INFO - Clipping: False
+2024-10-28 23:59:02,894 - INFO - Data Augmentation: True
+2024-10-28 23:59:02,894 - INFO - Number of copies: 4
+2024-10-28 23:59:02,895 - INFO - Random Vector: False
+2024-10-28 23:59:02,895 - INFO - Max Iterations: 100000
+2024-10-28 23:59:02,895 - INFO - Learning Rate: 5e-05
+2024-10-28 23:59:02,895 - INFO - SGD: True
+2024-10-28 23:59:02,895 - INFO - Batch Size: 64
+2024-10-28 23:59:02,895 - INFO - Shuffle: True
+2024-10-28 23:59:02,895 - INFO - Regularization: True
+2024-10-28 23:59:02,895 - INFO - Lambda: 1e-05
+2024-10-28 23:59:02,895 - INFO - Add noise: True
+2024-10-28 23:59:02,895 - INFO - noise_level: 0.1
+2024-10-28 23:59:02,895 - INFO - acc.: 0.8692306520182242
+2024-10-28 23:59:02,895 - INFO - F1 Score: 0.4221964882042443
+2024-10-29 00:14:24,031 - INFO - Threshold: 1
+2024-10-29 00:14:24,033 - INFO - Subsample: False
+2024-10-29 00:14:24,033 - INFO - Avg Threshold: 10
+2024-10-29 00:14:24,033 - INFO - Std Threshold: 3
+2024-10-29 00:14:24,033 - INFO - Clipping: False
+2024-10-29 00:14:24,033 - INFO - Data Augmentation: True
+2024-10-29 00:14:24,033 - INFO - Number of copies: 4
+2024-10-29 00:14:24,033 - INFO - Random Vector: False
+2024-10-29 00:14:24,033 - INFO - Max Iterations: 100000
+2024-10-29 00:14:24,034 - INFO - Learning Rate: 3e-05
+2024-10-29 00:14:24,034 - INFO - ADAM: True
+2024-10-29 00:14:24,034 - INFO - SGD with momentum: True
+2024-10-29 00:14:24,034 - INFO - SGD: True
+2024-10-29 00:14:24,034 - INFO - Batch Size: 64
+2024-10-29 00:14:24,034 - INFO - Shuffle: True
+2024-10-29 00:14:24,034 - INFO - Regularization: True
+2024-10-29 00:14:24,034 - INFO - Lambda: 1e-05
+2024-10-29 00:14:24,034 - INFO - Add noise: True
+2024-10-29 00:14:24,035 - INFO - noise_level: 0.1
+2024-10-29 00:14:24,035 - INFO - acc.: 0.8484952839532509
+2024-10-29 00:14:24,035 - INFO - F1 Score: 0.41694032651529367
+2024-10-29 00:19:47,171 - INFO - Threshold: 1
+2024-10-29 00:19:47,171 - INFO - Subsample: False
+2024-10-29 00:19:47,171 - INFO - Avg Threshold: 10
+2024-10-29 00:19:47,171 - INFO - Std Threshold: 3
+2024-10-29 00:19:47,171 - INFO - Clipping: False
+2024-10-29 00:19:47,171 - INFO - Data Augmentation: True
+2024-10-29 00:19:47,171 - INFO - Number of copies: 4
+2024-10-29 00:19:47,171 - INFO - Random Vector: False
+2024-10-29 00:19:47,171 - INFO - Max Iterations: 100000
+2024-10-29 00:19:47,171 - INFO - Learning Rate: 3e-05
+2024-10-29 00:19:47,171 - INFO - ADAM: True
+2024-10-29 00:19:47,171 - INFO - SGD with momentum: True
+2024-10-29 00:19:47,171 - INFO - SGD: True
+2024-10-29 00:19:47,171 - INFO - Batch Size: 64
+2024-10-29 00:19:47,171 - INFO - Shuffle: True
+2024-10-29 00:19:47,171 - INFO - Regularization: True
+2024-10-29 00:19:47,172 - INFO - Lambda: 1e-05
+2024-10-29 00:19:47,172 - INFO - Add noise: True
+2024-10-29 00:19:47,172 - INFO - noise_level: 0.1
+2024-10-29 00:19:47,172 - INFO - acc.: 0.8483916680634495
+2024-10-29 00:19:47,172 - INFO - F1 Score: 0.41671942783444715
+2024-10-29 00:23:12,620 - INFO - Threshold: 1
+2024-10-29 00:23:12,621 - INFO - Subsample: False
+2024-10-29 00:23:12,621 - INFO - Avg Threshold: 10
+2024-10-29 00:23:12,621 - INFO - Std Threshold: 3
+2024-10-29 00:23:12,621 - INFO - Clipping: False
+2024-10-29 00:23:12,621 - INFO - Data Augmentation: True
+2024-10-29 00:23:12,621 - INFO - Number of copies: 4
+2024-10-29 00:23:12,621 - INFO - Random Vector: False
+2024-10-29 00:23:12,621 - INFO - Max Iterations: 100000
+2024-10-29 00:23:12,621 - INFO - Learning Rate: 3e-05
+2024-10-29 00:23:12,621 - INFO - ADAM: True
+2024-10-29 00:23:12,621 - INFO - SGD with momentum: True
+2024-10-29 00:23:12,621 - INFO - SGD: True
+2024-10-29 00:23:12,621 - INFO - Batch Size: 64
+2024-10-29 00:23:12,621 - INFO - Shuffle: True
+2024-10-29 00:23:12,621 - INFO - Regularization: True
+2024-10-29 00:23:12,621 - INFO - Lambda: 1e-05
+2024-10-29 00:23:12,621 - INFO - Add noise: True
+2024-10-29 00:23:12,621 - INFO - noise_level: 0.1
+2024-10-29 00:23:12,621 - INFO - acc.: 0.8684291526353483
+2024-10-29 00:23:12,621 - INFO - F1 Score: 0.42200950532164133
+2024-10-29 00:42:37,146 - INFO - Threshold: 1
+2024-10-29 00:42:37,147 - INFO - Subsample: False
+2024-10-29 00:42:37,147 - INFO - Avg Threshold: 10
+2024-10-29 00:42:37,147 - INFO - Std Threshold: 3
+2024-10-29 00:42:37,147 - INFO - Clipping: False
+2024-10-29 00:42:37,147 - INFO - Data Augmentation: True
+2024-10-29 00:42:37,147 - INFO - Number of copies: 4
+2024-10-29 00:42:37,147 - INFO - Random Vector: False
+2024-10-29 00:42:37,147 - INFO - Max Iterations: 100000
+2024-10-29 00:42:37,147 - INFO - Learning Rate: 3e-05
+2024-10-29 00:42:37,147 - INFO - ADAM: True
+2024-10-29 00:42:37,147 - INFO - SGD with momentum: True
+2024-10-29 00:42:37,147 - INFO - SGD: True
+2024-10-29 00:42:37,147 - INFO - Batch Size: 64
+2024-10-29 00:42:37,147 - INFO - Shuffle: True
+2024-10-29 00:42:37,147 - INFO - Regularization: True
+2024-10-29 00:42:37,147 - INFO - Lambda: 1e-05
+2024-10-29 00:42:37,147 - INFO - Add noise: True
+2024-10-29 00:42:37,147 - INFO - noise_level: 0.1
+2024-10-29 00:42:37,148 - INFO - acc.: 0.8468953327136697
+2024-10-29 00:42:37,148 - INFO - F1 Score: 0.4161175226340319
+2024-10-29 01:08:59,442 - INFO - Threshold: 1
+2024-10-29 01:08:59,442 - INFO - Subsample: False
+2024-10-29 01:08:59,442 - INFO - Avg Threshold: 10
+2024-10-29 01:08:59,442 - INFO - Std Threshold: 3
+2024-10-29 01:08:59,443 - INFO - Clipping: False
+2024-10-29 01:08:59,443 - INFO - Data Augmentation: True
+2024-10-29 01:08:59,443 - INFO - Number of copies: 4
+2024-10-29 01:08:59,443 - INFO - Random Vector: False
+2024-10-29 01:08:59,443 - INFO - Max Iterations: 100000
+2024-10-29 01:08:59,443 - INFO - Learning Rate: 3e-05
+2024-10-29 01:08:59,443 - INFO - ADAM: True
+2024-10-29 01:08:59,443 - INFO - SGD with momentum: True
+2024-10-29 01:08:59,443 - INFO - SGD: True
+2024-10-29 01:08:59,443 - INFO - Batch Size: 64
+2024-10-29 01:08:59,443 - INFO - Shuffle: True
+2024-10-29 01:08:59,443 - INFO - Regularization: True
+2024-10-29 01:08:59,443 - INFO - Lambda: 1e-05
+2024-10-29 01:08:59,443 - INFO - Add noise: True
+2024-10-29 01:08:59,443 - INFO - noise_level: 0.1
+2024-10-29 01:08:59,443 - INFO - acc.: 0.8682280159080866
+2024-10-29 01:08:59,443 - INFO - F1 Score: 0.42196168602863515
+2024-10-29 19:03:54,907 - INFO - Threshold: 1
+2024-10-29 19:03:54,908 - INFO - Subsample: False
+2024-10-29 19:03:54,908 - INFO - Avg Threshold: 10
+2024-10-29 19:03:54,908 - INFO - Std Threshold: 3
+2024-10-29 19:03:54,908 - INFO - Clipping: False
+2024-10-29 19:03:54,908 - INFO - Data Augmentation: True
+2024-10-29 19:03:54,908 - INFO - Number of copies: 4
+2024-10-29 19:03:54,908 - INFO - Random Vector: False
+2024-10-29 19:03:54,908 - INFO - Max Iterations: 100000
+2024-10-29 19:03:54,908 - INFO - Learning Rate: 3e-05
+2024-10-29 19:03:54,908 - INFO - ADAM: True
+2024-10-29 19:03:54,908 - INFO - SGD with momentum: True
+2024-10-29 19:03:54,908 - INFO - SGD: True
+2024-10-29 19:03:54,908 - INFO - Batch Size: 64
+2024-10-29 19:03:54,908 - INFO - Shuffle: True
+2024-10-29 19:03:54,908 - INFO - Regularization: True
+2024-10-29 19:03:54,908 - INFO - Lambda: 1e-05
+2024-10-29 19:03:54,908 - INFO - Add noise: True
+2024-10-29 19:03:54,908 - INFO - noise_level: 0.1
+2024-10-29 19:03:54,908 - INFO - acc.: 0.8684626754232252
+2024-10-29 19:03:54,908 - INFO - F1 Score: 0.4220407070166041
+2024-10-29 19:06:02,921 - INFO - Threshold: 1
+2024-10-29 19:06:02,921 - INFO - Subsample: False
+2024-10-29 19:06:02,921 - INFO - Avg Threshold: 10
+2024-10-29 19:06:02,921 - INFO - Std Threshold: 3
+2024-10-29 19:06:02,921 - INFO - Clipping: False
+2024-10-29 19:06:02,921 - INFO - Data Augmentation: True
+2024-10-29 19:06:02,921 - INFO - Number of copies: 4
+2024-10-29 19:06:02,922 - INFO - Random Vector: False
+2024-10-29 19:06:02,922 - INFO - Max Iterations: 100000
+2024-10-29 19:06:02,922 - INFO - Learning Rate: 0.0001
+2024-10-29 19:06:02,922 - INFO - ADAM: True
+2024-10-29 19:06:02,922 - INFO - SGD with momentum: True
+2024-10-29 19:06:02,922 - INFO - SGD: True
+2024-10-29 19:06:02,922 - INFO - Batch Size: 64
+2024-10-29 19:06:02,922 - INFO - Shuffle: True
+2024-10-29 19:06:02,922 - INFO - Regularization: True
+2024-10-29 19:06:02,922 - INFO - Lambda: 1e-05
+2024-10-29 19:06:02,922 - INFO - Add noise: True
+2024-10-29 19:06:02,922 - INFO - noise_level: 0.1
+2024-10-29 19:06:02,922 - INFO - acc.: 0.8681030673350908
+2024-10-29 19:06:02,922 - INFO - F1 Score: 0.4233024197846712
+2024-10-29 19:08:08,107 - INFO - Threshold: 1
+2024-10-29 19:08:08,107 - INFO - Subsample: False
+2024-10-29 19:08:08,107 - INFO - Avg Threshold: 10
+2024-10-29 19:08:08,107 - INFO - Std Threshold: 3
+2024-10-29 19:08:08,107 - INFO - Clipping: False
+2024-10-29 19:08:08,107 - INFO - Data Augmentation: True
+2024-10-29 19:08:08,108 - INFO - Number of copies: 4
+2024-10-29 19:08:08,108 - INFO - Random Vector: False
+2024-10-29 19:08:08,108 - INFO - Max Iterations: 100000
+2024-10-29 19:08:08,108 - INFO - Learning Rate: 1e-05
+2024-10-29 19:08:08,108 - INFO - ADAM: True
+2024-10-29 19:08:08,108 - INFO - SGD with momentum: True
+2024-10-29 19:08:08,108 - INFO - SGD: True
+2024-10-29 19:08:08,108 - INFO - Batch Size: 64
+2024-10-29 19:08:08,108 - INFO - Shuffle: True
+2024-10-29 19:08:08,108 - INFO - Regularization: True
+2024-10-29 19:08:08,108 - INFO - Lambda: 1e-05
+2024-10-29 19:08:08,108 - INFO - Add noise: True
+2024-10-29 19:08:08,108 - INFO - noise_level: 0.1
+2024-10-29 19:08:08,108 - INFO - acc.: 0.8347448458713639
+2024-10-29 19:08:08,108 - INFO - F1 Score: 0.40843933410424804
+2024-10-29 19:11:44,912 - INFO - Threshold: 1
+2024-10-29 19:11:44,913 - INFO - Subsample: False
+2024-10-29 19:11:44,913 - INFO - Avg Threshold: 10
+2024-10-29 19:11:44,913 - INFO - Std Threshold: 3
+2024-10-29 19:11:44,913 - INFO - Clipping: False
+2024-10-29 19:11:44,913 - INFO - Data Augmentation: True
+2024-10-29 19:11:44,913 - INFO - Number of copies: 4
+2024-10-29 19:11:44,913 - INFO - Random Vector: False
+2024-10-29 19:11:44,913 - INFO - Max Iterations: 100000
+2024-10-29 19:11:44,913 - INFO - Learning Rate: 5e-05
+2024-10-29 19:11:44,913 - INFO - ADAM: True
+2024-10-29 19:11:44,913 - INFO - SGD with momentum: True
+2024-10-29 19:11:44,913 - INFO - SGD: True
+2024-10-29 19:11:44,913 - INFO - Batch Size: 64
+2024-10-29 19:11:44,913 - INFO - Shuffle: True
+2024-10-29 19:11:44,913 - INFO - Regularization: True
+2024-10-29 19:11:44,913 - INFO - Lambda: 1e-05
+2024-10-29 19:11:44,913 - INFO - Add noise: True
+2024-10-29 19:11:44,913 - INFO - noise_level: 0.1
+2024-10-29 19:11:44,913 - INFO - acc.: 0.8707147972633215
+2024-10-29 19:11:44,913 - INFO - F1 Score: 0.4228241792628672
+2024-10-29 19:15:35,075 - INFO - Threshold: 1
+2024-10-29 19:15:35,075 - INFO - Subsample: False
+2024-10-29 19:15:35,075 - INFO - Avg Threshold: 10
+2024-10-29 19:15:35,075 - INFO - Std Threshold: 3
+2024-10-29 19:15:35,075 - INFO - Clipping: False
+2024-10-29 19:15:35,075 - INFO - Data Augmentation: True
+2024-10-29 19:15:35,075 - INFO - Number of copies: 4
+2024-10-29 19:15:35,075 - INFO - Random Vector: False
+2024-10-29 19:15:35,075 - INFO - Max Iterations: 100000
+2024-10-29 19:15:35,075 - INFO - Learning Rate: 5e-05
+2024-10-29 19:15:35,075 - INFO - ADAM: True
+2024-10-29 19:15:35,075 - INFO - SGD with momentum: True
+2024-10-29 19:15:35,075 - INFO - SGD: True
+2024-10-29 19:15:35,075 - INFO - Batch Size: 64
+2024-10-29 19:15:35,075 - INFO - Shuffle: True
+2024-10-29 19:15:35,075 - INFO - Regularization: True
+2024-10-29 19:15:35,075 - INFO - Lambda: 1e-05
+2024-10-29 19:15:35,075 - INFO - Add noise: True
+2024-10-29 19:15:35,076 - INFO - noise_level: 0.1
+2024-10-29 19:15:35,076 - INFO - acc.: 0.8611668977707346
+2024-10-29 19:15:35,076 - INFO - F1 Score: 0.42244985927635076
+2024-10-29 19:18:47,695 - INFO - Threshold: 1
+2024-10-29 19:18:47,695 - INFO - Subsample: False
+2024-10-29 19:18:47,695 - INFO - Avg Threshold: 10
+2024-10-29 19:18:47,695 - INFO - Std Threshold: 3
+2024-10-29 19:18:47,695 - INFO - Clipping: False
+2024-10-29 19:18:47,695 - INFO - Data Augmentation: True
+2024-10-29 19:18:47,695 - INFO - Number of copies: 4
+2024-10-29 19:18:47,695 - INFO - Random Vector: False
+2024-10-29 19:18:47,695 - INFO - Max Iterations: 100000
+2024-10-29 19:18:47,695 - INFO - Learning Rate: 5e-05
+2024-10-29 19:18:47,695 - INFO - ADAM: True
+2024-10-29 19:18:47,695 - INFO - SGD with momentum: True
+2024-10-29 19:18:47,695 - INFO - SGD: True
+2024-10-29 19:18:47,695 - INFO - Batch Size: 64
+2024-10-29 19:18:47,695 - INFO - Shuffle: True
+2024-10-29 19:18:47,695 - INFO - Regularization: True
+2024-10-29 19:18:47,695 - INFO - Lambda: 1e-05
+2024-10-29 19:18:47,695 - INFO - Add noise: True
+2024-10-29 19:18:47,695 - INFO - noise_level: 0.1
+2024-10-29 19:18:47,695 - INFO - acc.: 0.8611120422996632
+2024-10-29 19:18:47,695 - INFO - F1 Score: 0.4217671538773854
+2024-10-29 19:20:38,938 - INFO - Threshold: 1
+2024-10-29 19:20:38,938 - INFO - Subsample: False
+2024-10-29 19:20:38,938 - INFO - Avg Threshold: 10
+2024-10-29 19:20:38,938 - INFO - Std Threshold: 3
+2024-10-29 19:20:38,938 - INFO - Clipping: False
+2024-10-29 19:20:38,938 - INFO - Data Augmentation: True
+2024-10-29 19:20:38,938 - INFO - Number of copies: 4
+2024-10-29 19:20:38,938 - INFO - Random Vector: False
+2024-10-29 19:20:38,938 - INFO - Max Iterations: 100000
+2024-10-29 19:20:38,938 - INFO - Learning Rate: 5e-05
+2024-10-29 19:20:38,938 - INFO - ADAM: True
+2024-10-29 19:20:38,938 - INFO - SGD with momentum: True
+2024-10-29 19:20:38,938 - INFO - SGD: True
+2024-10-29 19:20:38,938 - INFO - Batch Size: 64
+2024-10-29 19:20:38,938 - INFO - Shuffle: True
+2024-10-29 19:20:38,938 - INFO - Regularization: True
+2024-10-29 19:20:38,938 - INFO - Lambda: 1e-05
+2024-10-29 19:20:38,938 - INFO - Add noise: True
+2024-10-29 19:20:38,938 - INFO - noise_level: 0.1
+2024-10-29 19:20:38,938 - INFO - acc.: 0.8619683971536105
+2024-10-29 19:20:38,938 - INFO - F1 Score: 0.4223642091033146
+2024-10-29 19:27:02,924 - INFO - Threshold: 1
+2024-10-29 19:27:02,924 - INFO - Subsample: False
+2024-10-29 19:27:02,924 - INFO - Avg Threshold: 10
+2024-10-29 19:27:02,924 - INFO - Std Threshold: 3
+2024-10-29 19:27:02,924 - INFO - Clipping: False
+2024-10-29 19:27:02,924 - INFO - Data Augmentation: True
+2024-10-29 19:27:02,924 - INFO - Number of copies: 4
+2024-10-29 19:27:02,924 - INFO - Random Vector: False
+2024-10-29 19:27:02,924 - INFO - Max Iterations: 100000
+2024-10-29 19:27:02,924 - INFO - Learning Rate: 1e-05
+2024-10-29 19:27:02,924 - INFO - ADAM: True
+2024-10-29 19:27:02,924 - INFO - SGD with momentum: True
+2024-10-29 19:27:02,924 - INFO - SGD: True
+2024-10-29 19:27:02,924 - INFO - Batch Size: 64
+2024-10-29 19:27:02,924 - INFO - Shuffle: True
+2024-10-29 19:27:02,924 - INFO - Regularization: True
+2024-10-29 19:27:02,924 - INFO - Lambda: 1e-05
+2024-10-29 19:27:02,924 - INFO - Add noise: True
+2024-10-29 19:27:02,924 - INFO - noise_level: 0.1
+2024-10-29 19:27:02,924 - INFO - acc.: 0.8696390205250888
+2024-10-29 19:27:02,925 - INFO - F1 Score: 0.42288181327576907
+2024-10-29 21:18:54,483 - INFO - Threshold: 1
+2024-10-29 21:18:54,483 - INFO - Subsample: False
+2024-10-29 21:18:54,483 - INFO - Avg Threshold: 10
+2024-10-29 21:18:54,483 - INFO - Std Threshold: 3
+2024-10-29 21:18:54,483 - INFO - Clipping: False
+2024-10-29 21:18:54,483 - INFO - Data Augmentation: True
+2024-10-29 21:18:54,483 - INFO - Number of copies: 4
+2024-10-29 21:18:54,484 - INFO - Random Vector: False
+2024-10-29 21:18:54,484 - INFO - Max Iterations: 100000
+2024-10-29 21:18:54,484 - INFO - Learning Rate: 1e-05
+2024-10-29 21:18:54,484 - INFO - ADAM: True
+2024-10-29 21:18:54,484 - INFO - SGD with momentum: True
+2024-10-29 21:18:54,484 - INFO - SGD: True
+2024-10-29 21:18:54,484 - INFO - Batch Size: 64
+2024-10-29 21:18:54,484 - INFO - Shuffle: True
+2024-10-29 21:18:54,484 - INFO - Regularization: True
+2024-10-29 21:18:54,484 - INFO - Lambda: 1e-05
+2024-10-29 21:18:54,484 - INFO - Add noise: True
+2024-10-29 21:18:54,484 - INFO - noise_level: 0.1
+2024-10-29 21:18:54,484 - INFO - acc.: 0.8509028296280494
+2024-10-29 21:18:54,484 - INFO - F1 Score: 0.4186648922265263
+2024-10-29 21:21:02,589 - INFO - Threshold: 1
+2024-10-29 21:21:02,589 - INFO - Subsample: False
+2024-10-29 21:21:02,589 - INFO - Avg Threshold: 10
+2024-10-29 21:21:02,589 - INFO - Std Threshold: 3
+2024-10-29 21:21:02,589 - INFO - Clipping: False
+2024-10-29 21:21:02,589 - INFO - Data Augmentation: True
+2024-10-29 21:21:02,589 - INFO - Number of copies: 4
+2024-10-29 21:21:02,589 - INFO - Random Vector: False
+2024-10-29 21:21:02,590 - INFO - Max Iterations: 100000
+2024-10-29 21:21:02,590 - INFO - Learning Rate: 3e-05
+2024-10-29 21:21:02,590 - INFO - ADAM: True
+2024-10-29 21:21:02,590 - INFO - SGD with momentum: True
+2024-10-29 21:21:02,590 - INFO - SGD: True
+2024-10-29 21:21:02,590 - INFO - Batch Size: 64
+2024-10-29 21:21:02,590 - INFO - Shuffle: True
+2024-10-29 21:21:02,590 - INFO - Regularization: True
+2024-10-29 21:21:02,590 - INFO - Lambda: 1e-05
+2024-10-29 21:21:02,590 - INFO - Add noise: True
+2024-10-29 21:21:02,590 - INFO - noise_level: 0.1
+2024-10-29 21:21:02,590 - INFO - acc.: 0.8684961982111021
+2024-10-29 21:21:02,590 - INFO - F1 Score: 0.422721374198986
+2024-10-30 20:45:44,948 - INFO - Threshold: 1
+2024-10-30 20:45:44,950 - INFO - Subsample: False
+2024-10-30 20:45:44,950 - INFO - Avg Threshold: 10
+2024-10-30 20:45:44,950 - INFO - Std Threshold: 3
+2024-10-30 20:45:44,950 - INFO - Clipping: False
+2024-10-30 20:45:44,950 - INFO - Data Augmentation: True
+2024-10-30 20:45:44,950 - INFO - Number of copies: 4
+2024-10-30 20:45:44,950 - INFO - Random Vector: False
+2024-10-30 20:45:44,950 - INFO - Max Iterations: 100000
+2024-10-30 20:45:44,950 - INFO - Learning Rate: 5e-05
+2024-10-30 20:45:44,950 - INFO - ADAM: False
+2024-10-30 20:45:44,950 - INFO - SGD with momentum: True
+2024-10-30 20:48:07,191 - INFO - Threshold: 1
+2024-10-30 20:48:07,191 - INFO - Subsample: False
+2024-10-30 20:48:07,191 - INFO - Avg Threshold: 10
+2024-10-30 20:48:07,191 - INFO - Std Threshold: 3
+2024-10-30 20:48:07,191 - INFO - Clipping: False
+2024-10-30 20:48:07,191 - INFO - Data Augmentation: True
+2024-10-30 20:48:07,191 - INFO - Number of copies: 4
+2024-10-30 20:48:07,191 - INFO - Random Vector: False
+2024-10-30 20:48:07,192 - INFO - Max Iterations: 100000
+2024-10-30 20:48:07,192 - INFO - Learning Rate: 5e-05
+2024-10-30 20:48:07,192 - INFO - ADAM: False
+2024-10-30 20:48:07,192 - INFO - SGD with momentum: True
+2024-10-30 20:48:07,192 - INFO - Batch Size: 64
+2024-10-30 20:48:07,192 - INFO - Shuffle: True
+2024-10-30 20:48:07,192 - INFO - Regularization: True
+2024-10-30 20:48:07,192 - INFO - Lambda: 1e-05
+2024-10-30 20:48:07,192 - INFO - Add noise: True
+2024-10-30 20:48:07,192 - INFO - noise_level: 0.1
+2024-10-30 20:48:07,192 - INFO - acc.: 0.8692611272799305
+2024-10-30 20:48:07,192 - INFO - F1 Score: 0.4234335940649947
+2024-10-30 20:54:30,019 - INFO - Threshold: 1
+2024-10-30 20:54:30,027 - INFO - Subsample: False
+2024-10-30 20:54:30,027 - INFO - Avg Threshold: 10
+2024-10-30 20:54:30,027 - INFO - Std Threshold: 3
+2024-10-30 20:54:30,027 - INFO - Clipping: False
+2024-10-30 20:54:30,027 - INFO - Data Augmentation: True
+2024-10-30 20:54:30,027 - INFO - Number of copies: 4
+2024-10-30 20:54:30,027 - INFO - Random Vector: False
+2024-10-30 20:54:30,027 - INFO - Max Iterations: 100000
+2024-10-30 20:54:30,027 - INFO - Learning Rate: 5e-05
+2024-10-30 20:54:30,027 - INFO - ADAM: False
+2024-10-30 20:54:30,027 - INFO - SGD with momentum: True
+2024-10-30 20:54:30,027 - INFO - Batch Size: 64
+2024-10-30 20:54:30,027 - INFO - Shuffle: True
+2024-10-30 20:54:30,027 - INFO - Regularization: True
+2024-10-30 20:54:30,027 - INFO - Lambda: 1e-05
+2024-10-30 20:54:30,027 - INFO - Add noise: True
+2024-10-30 20:54:30,027 - INFO - noise_level: 0.1
+2024-10-30 20:54:30,027 - INFO - acc.: 0.8688009508281652
+2024-10-30 20:54:30,027 - INFO - F1 Score: 0.42300939514561803
+2024-10-30 20:56:38,811 - INFO - Threshold: 1
+2024-10-30 20:56:38,811 - INFO - Subsample: False
+2024-10-30 20:56:38,811 - INFO - Avg Threshold: 10
+2024-10-30 20:56:38,811 - INFO - Std Threshold: 3
+2024-10-30 20:56:38,811 - INFO - Clipping: False
+2024-10-30 20:56:38,811 - INFO - Data Augmentation: True
+2024-10-30 20:56:38,811 - INFO - Number of copies: 4
+2024-10-30 20:56:38,811 - INFO - Random Vector: False
+2024-10-30 20:56:38,811 - INFO - Max Iterations: 100000
+2024-10-30 20:56:38,811 - INFO - Learning Rate: 1e-05
+2024-10-30 20:56:38,811 - INFO - ADAM: False
+2024-10-30 20:56:38,811 - INFO - SGD with momentum: True
+2024-10-30 20:56:38,811 - INFO - Batch Size: 64
+2024-10-30 20:56:38,811 - INFO - Shuffle: True
+2024-10-30 20:56:38,811 - INFO - Regularization: True
+2024-10-30 20:56:38,811 - INFO - Lambda: 1e-05
+2024-10-30 20:56:38,811 - INFO - Add noise: True
+2024-10-30 20:56:38,811 - INFO - noise_level: 0.1
+2024-10-30 20:56:38,811 - INFO - acc.: 0.8689655172413793
+2024-10-30 20:56:38,811 - INFO - F1 Score: 0.4231300731200108
+2024-10-30 20:58:34,272 - INFO - Threshold: 1
+2024-10-30 20:58:34,272 - INFO - Subsample: False
+2024-10-30 20:58:34,272 - INFO - Avg Threshold: 10
+2024-10-30 20:58:34,272 - INFO - Std Threshold: 3
+2024-10-30 20:58:34,272 - INFO - Clipping: False
+2024-10-30 20:58:34,272 - INFO - Data Augmentation: True
+2024-10-30 20:58:34,272 - INFO - Number of copies: 4
+2024-10-30 20:58:34,272 - INFO - Random Vector: False
+2024-10-30 20:58:34,272 - INFO - Max Iterations: 100000
+2024-10-30 20:58:34,272 - INFO - Learning Rate: 5e-06
+2024-10-30 20:58:34,272 - INFO - ADAM: False
+2024-10-30 20:58:34,272 - INFO - SGD with momentum: True
+2024-10-30 20:58:34,272 - INFO - Batch Size: 64
+2024-10-30 20:58:34,273 - INFO - Shuffle: True
+2024-10-30 20:58:34,273 - INFO - Regularization: True
+2024-10-30 20:58:34,273 - INFO - Lambda: 1e-05
+2024-10-30 20:58:34,273 - INFO - Add noise: True
+2024-10-30 20:58:34,273 - INFO - noise_level: 0.1
+2024-10-30 20:58:34,273 - INFO - acc.: 0.8689777073460618
+2024-10-30 20:58:34,273 - INFO - F1 Score: 0.42329206293847
+2024-10-30 21:02:05,001 - INFO - Threshold: 1
+2024-10-30 21:02:05,001 - INFO - Subsample: False
+2024-10-30 21:02:05,001 - INFO - Avg Threshold: 10
+2024-10-30 21:02:05,001 - INFO - Std Threshold: 3
+2024-10-30 21:02:05,001 - INFO - Clipping: False
+2024-10-30 21:02:05,001 - INFO - Data Augmentation: True
+2024-10-30 21:02:05,001 - INFO - Number of copies: 4
+2024-10-30 21:02:05,001 - INFO - Random Vector: False
+2024-10-30 21:02:05,001 - INFO - Max Iterations: 100000
+2024-10-30 21:02:05,001 - INFO - Learning Rate: 1e-06
+2024-10-30 21:02:05,001 - INFO - ADAM: False
+2024-10-30 21:02:05,001 - INFO - SGD with momentum: True
+2024-10-30 21:02:05,001 - INFO - Batch Size: 64
+2024-10-30 21:02:05,001 - INFO - Shuffle: True
+2024-10-30 21:02:05,001 - INFO - Regularization: True
+2024-10-30 21:02:05,001 - INFO - Lambda: 1e-05
+2024-10-30 21:02:05,001 - INFO - Add noise: True
+2024-10-30 21:02:05,001 - INFO - noise_level: 0.1
+2024-10-30 21:02:05,001 - INFO - acc.: 0.8690478004479864
+2024-10-30 21:02:05,001 - INFO - F1 Score: 0.42334532181008105
+2024-10-30 21:21:03,829 - INFO - Threshold: 1
+2024-10-30 21:21:03,829 - INFO - Subsample: False
+2024-10-30 21:21:03,829 - INFO - Avg Threshold: 10
+2024-10-30 21:21:03,829 - INFO - Std Threshold: 3
+2024-10-30 21:21:03,829 - INFO - Clipping: False
+2024-10-30 21:21:03,829 - INFO - Data Augmentation: True
+2024-10-30 21:21:03,829 - INFO - Number of copies: 4
+2024-10-30 21:21:03,829 - INFO - Random Vector: False
+2024-10-30 21:21:03,829 - INFO - Max Iterations: 100000
+2024-10-30 21:21:03,829 - INFO - Learning Rate: 5e-07
+2024-10-30 21:21:03,829 - INFO - ADAM: False
+2024-10-30 21:21:03,829 - INFO - SGD with momentum: True
+2024-10-30 21:21:03,829 - INFO - Batch Size: 64
+2024-10-30 21:21:03,829 - INFO - Shuffle: True
+2024-10-30 21:21:03,829 - INFO - Regularization: True
+2024-10-30 21:21:03,829 - INFO - Lambda: 1e-05
+2024-10-30 21:21:03,830 - INFO - Add noise: True
+2024-10-30 21:21:03,830 - INFO - noise_level: 0.1
+2024-10-30 21:21:03,830 - INFO - acc.: 0.8690660856050101
+2024-10-30 21:21:03,830 - INFO - F1 Score: 0.42337941215944164
+2024-10-30 21:23:27,269 - INFO - Threshold: 1
+2024-10-30 21:23:27,269 - INFO - Subsample: False
+2024-10-30 21:23:27,269 - INFO - Avg Threshold: 10
+2024-10-30 21:23:27,269 - INFO - Std Threshold: 3
+2024-10-30 21:23:27,269 - INFO - Clipping: False
+2024-10-30 21:23:27,269 - INFO - Data Augmentation: True
+2024-10-30 21:23:27,269 - INFO - Number of copies: 4
+2024-10-30 21:23:27,269 - INFO - Random Vector: False
+2024-10-30 21:23:27,269 - INFO - Max Iterations: 100000
+2024-10-30 21:23:27,269 - INFO - Learning Rate: 5e-05
+2024-10-30 21:23:27,269 - INFO - ADAM: True
+2024-10-30 21:23:27,269 - INFO - SGD with momentum: False
+2024-10-30 21:23:27,269 - INFO - Batch Size: 64
+2024-10-30 21:23:27,269 - INFO - Shuffle: True
+2024-10-30 21:23:27,269 - INFO - Regularization: True
+2024-10-30 21:23:27,269 - INFO - Lambda: 1e-05
+2024-10-30 21:23:27,269 - INFO - Add noise: True
+2024-10-30 21:23:27,269 - INFO - noise_level: 0.1
+2024-10-30 21:23:27,269 - INFO - acc.: 0.8698157770429854
+2024-10-30 21:23:27,269 - INFO - F1 Score: 0.4235710044799482
+2024-10-31 21:20:44,226 - INFO - Threshold: 1
+2024-10-31 21:20:44,226 - INFO - Subsample: False
+2024-10-31 21:20:44,226 - INFO - Avg Threshold: 10
+2024-10-31 21:20:44,226 - INFO - Std Threshold: 3
+2024-10-31 21:20:44,226 - INFO - Clipping: False
+2024-10-31 21:20:44,226 - INFO - Data Augmentation: True
+2024-10-31 21:20:44,226 - INFO - Number of copies: 4
+2024-10-31 21:20:44,226 - INFO - Random Vector: False
+2024-10-31 21:20:44,226 - INFO - Max Iterations: 100000
+2024-10-31 21:20:44,226 - INFO - Learning Rate: 5e-05
+2024-10-31 21:20:44,226 - INFO - ADAM: False
+2024-10-31 21:20:44,226 - INFO - SGD with momentum: False
+2024-10-31 21:20:44,226 - INFO - Batch Size: 64
+2024-10-31 21:20:44,226 - INFO - Shuffle: True
+2024-10-31 21:20:44,226 - INFO - Regularization: True
+2024-10-31 21:20:44,226 - INFO - Lambda: 1e-05
+2024-10-31 21:20:44,226 - INFO - Add noise: True
+2024-10-31 21:20:44,226 - INFO - noise_level: 0.1
+2024-10-31 21:20:44,226 - INFO - acc.: 0.8691057034452283
+2024-10-31 21:20:44,227 - INFO - F1 Score: 0.4235461487873948
+2024-10-31 21:24:34,334 - INFO - Threshold: 1
+2024-10-31 21:24:34,343 - INFO - Subsample: False
+2024-10-31 21:24:34,343 - INFO - Avg Threshold: 10
+2024-10-31 21:24:34,343 - INFO - Std Threshold: 3
+2024-10-31 21:24:34,343 - INFO - Clipping: False
+2024-10-31 21:24:34,343 - INFO - Data Augmentation: True
+2024-10-31 21:24:34,343 - INFO - Number of copies: 4
+2024-10-31 21:24:34,343 - INFO - Random Vector: False
+2024-10-31 21:24:34,343 - INFO - Max Iterations: 100000
+2024-10-31 21:24:34,343 - INFO - Learning Rate: 5e-05
+2024-10-31 21:24:34,343 - INFO - ADAM: False
+2024-10-31 21:24:34,343 - INFO - SGD with momentum: False
+2024-10-31 21:24:34,343 - INFO - Batch Size: 64
+2024-10-31 21:24:34,343 - INFO - Shuffle: True
+2024-10-31 21:24:34,343 - INFO - Regularization: True
+2024-10-31 21:24:34,343 - INFO - Lambda: 1e-05
+2024-10-31 21:24:34,343 - INFO - Add noise: True
+2024-10-31 21:24:34,343 - INFO - noise_level: 0.1
+2024-10-31 21:24:34,343 - INFO - acc.: 0.869099608392887
+2024-10-31 21:24:34,343 - INFO - F1 Score: 0.4233490407722153
+2024-10-31 21:28:46,763 - INFO - Threshold: 1
+2024-10-31 21:28:46,764 - INFO - Subsample: False
+2024-10-31 21:28:46,764 - INFO - Avg Threshold: 10
+2024-10-31 21:28:46,764 - INFO - Std Threshold: 3
+2024-10-31 21:28:46,764 - INFO - Clipping: False
+2024-10-31 21:28:46,764 - INFO - Data Augmentation: True
+2024-10-31 21:28:46,764 - INFO - Number of copies: 4
+2024-10-31 21:28:46,764 - INFO - Random Vector: False
+2024-10-31 21:28:46,764 - INFO - Max Iterations: 100000
+2024-10-31 21:28:46,764 - INFO - Learning Rate: 5e-05
+2024-10-31 21:28:46,764 - INFO - ADAM: False
+2024-10-31 21:28:46,764 - INFO - SGD with momentum: False
+2024-10-31 21:28:46,764 - INFO - Batch Size: 64
+2024-10-31 21:28:46,764 - INFO - Shuffle: True
+2024-10-31 21:28:46,764 - INFO - Regularization: True
+2024-10-31 21:28:46,764 - INFO - Lambda: 1e-05
+2024-10-31 21:28:46,764 - INFO - Add noise: True
+2024-10-31 21:28:46,764 - INFO - noise_level: 0.1
+2024-10-31 21:28:46,764 - INFO - acc.: 0.8693037926463193
+2024-10-31 21:28:46,764 - INFO - F1 Score: 0.42382308684436804
+2024-10-31 21:33:04,213 - INFO - Threshold: 1
+2024-10-31 21:33:04,213 - INFO - Subsample: False
+2024-10-31 21:33:04,213 - INFO - Avg Threshold: 10
+2024-10-31 21:33:04,213 - INFO - Std Threshold: 3
+2024-10-31 21:33:04,213 - INFO - Clipping: False
+2024-10-31 21:33:04,213 - INFO - Data Augmentation: True
+2024-10-31 21:33:04,213 - INFO - Number of copies: 4
+2024-10-31 21:33:04,213 - INFO - Random Vector: False
+2024-10-31 21:33:04,213 - INFO - Max Iterations: 100000
+2024-10-31 21:33:04,213 - INFO - Learning Rate: 5e-05
+2024-10-31 21:33:04,213 - INFO - ADAM: False
+2024-10-31 21:33:04,213 - INFO - SGD with momentum: False
+2024-10-31 21:33:04,213 - INFO - Batch Size: 64
+2024-10-31 21:33:04,213 - INFO - Shuffle: True
+2024-10-31 21:33:04,213 - INFO - Regularization: True
+2024-10-31 21:33:04,213 - INFO - Lambda: 1e-05
+2024-10-31 21:33:04,213 - INFO - Add noise: True
+2024-10-31 21:33:04,213 - INFO - noise_level: 0.1
+2024-10-31 21:33:04,213 - INFO - acc.: 0.8692428421229067
+2024-10-31 21:33:04,213 - INFO - F1 Score: 0.42356987398231993
