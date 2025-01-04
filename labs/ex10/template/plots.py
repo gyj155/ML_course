@@ -68,6 +68,15 @@ def plot_image_compression(original_image, image, assignments, mu, k):
     ax1.imshow(original_image, cmap="Greys_r")
     ax2 = fig.add_subplot(1, 2, 2)
     ax2.imshow(image_reconstruct, cmap="Greys_r")
+    
+    print("original image shape: ", original_image.shape)
+    print("image reconstruct shape: ", image_reconstruct.shape)
+    
+    original_image_size = original_image.nbytes
+    image_reconstruct_size = image_reconstruct.nbytes
+    
+    print("original_image_size:", original_image_size, "bytes")
+    print("image_reconstruct_size:", image_reconstruct_size, "bytes")
     #     plt.draw()
     #     plt.pause(0.1)
 

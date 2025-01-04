@@ -34,6 +34,7 @@ def load_image(path):
     return imread(path)
 
 
+from einops import rearrange
 def build_distance_matrix(data, mu):
     """builds a distance matrix.
 
@@ -41,9 +42,12 @@ def build_distance_matrix(data, mu):
         data: numpy array of shape = (N, d). original data.
         mu:   numpy array of shape = (k, d). Each row corresponds to a cluster center.
     Returns:
-        squared distances matrix,  numpy array of shape (N, k):
-            row number i column j corresponds to the squared distance of datapoint i with cluster center j.
+        numpy array of shape (N, k):
+            squared distances matrix,
+            the value row i column j corresponds to the squared distance of datapoint i with cluster center j.
     """
-    ####################################
-    ### ___ Enter your code here ___ ###
-    ####################################
+    
+    reshaped_data = rearrange(data, 'n d -> n 1 d')
+    reshaped_mu = rearrange(mu, 'k d -> 1 k d')
+    distance_matrix = np.sum((reshaped_data - reshaped_mu) ** 2, axis=2)
+    return distance_matrix
